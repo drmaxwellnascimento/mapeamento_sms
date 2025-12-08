@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Plan to build a Python-based Windows assistant using Gemini API, SpeechRecognition, and pyttsx3. Includes architecture for audio handling, tool definitions for Windows interaction, and a main event loop.",
+  "updatedAt": "2025-11-30T13:31:05.566661400Z"
+}

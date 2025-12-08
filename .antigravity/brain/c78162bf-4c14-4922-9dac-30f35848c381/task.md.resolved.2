@@ -1,0 +1,16 @@
+# Geocoding Project Setup
+
+- [x] Install required Python libraries <!-- id: 0 -->
+    - pandas
+    - openpyxl
+    - geopy
+    - fastkml
+    - lxml
+- [ ] Analyze input files (CSV headers, KML structure) <!-- id: 1 -->
+- [ ] Get Target UBS Name from User <!-- id: 2 -->
+- [ ] Implement Geocoding Script <!-- id: 3 -->
+    - Load Data (KML & CSV)
+    - Find Target UBS coordinates
+    - Geocode loop (Nominatim, 1.2s sleep, viewbox)
+    - Validate results (Status logic, Distance calc)
+    - Export to Excel

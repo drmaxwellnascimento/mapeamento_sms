@@ -1,0 +1,1393 @@
+��<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="12N2OUiLeOHePYYX7lXdBqHGDk55kjo2R">
+	<name>Mapeamento de Áreas de Saúde - Nossa Senhora do Socorro</name>
+	<visibility>0</visibility>
+	<description>Mapa dinâmico de cobertura das Unidades Básicas de Saúde (UBS) de Nossa Senhora do Socorro, Sergipe. Visualize áreas cobertas e descobertas, microáreas, blocos de cobertura e distâncias entre UBS.</description>
+	<gx:CascadingStyle kml:id="__managed_style_93CD6DA2E53C2E82731C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_74A3415A373C2E82731C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_899F43CBD93C2E82731C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_93CD6DA2E53C2E82731C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5A1947B2AA3C2E82731C">
+		<Style>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>Rua F, 115, Povoado, Parque N. Sra. De Fátima, Nossa Senhora do Socorro</text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_4995D2483C3C2E82731C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_5A1947B2AA3C2E82731C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_689EB7D44B3C2E82731C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_3DE74C70143C2E82731C">
+		<Style>
+			<IconStyle>
+				<scale>1.32</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>Av. dois, 219, Nossa Senhora do Socorro, Marcos Freire II</text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_689EB7D44B3C2E82731C">
+		<Style>
+			<IconStyle>
+				<scale>1.32</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>Rua F, 115, Povoado, Parque N. Sra. De Fátima, Nossa Senhora do Socorro</text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2BA73BC9353C2E82731C">
+		<Style>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>Av. dois, 219, Nossa Senhora do Socorro, Marcos Freire II</text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FE56B0CF33C2E82731C">
+		<Style>
+			<IconStyle>
+				<scale>1.32</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0AB2CB2FC23C2E82731B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CCEAF3DEA3C2E82731B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2ED24A0FF23C2E82731B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_3A04CC4DAB3C2E82731B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4676A3AE9D3C2E82731B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FE56B0CF33C2E82731C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2ED24A0FF23C2E82731B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1CCEAF3DEA3C2E82731B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4676A3AE9D3C2E82731B">
+		<Style>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2EBA881A053C2E827319">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.42857</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_899F43CBD93C2E82731C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_16D5DE83C53C2E82731C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2BA73BC9353C2E82731C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_3DE74C70143C2E82731C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1FED9D85A63C2E827319">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.28571</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F146101EC3C2E827319">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FED9D85A63C2E827319</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2EBA881A053C2E827319</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="59078F0D4B000001">
+		<name>Camada sem título</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+		<Folder id="5907A141A4000001">
+			<name>UBS - Nossa Senhora do Socorro</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0AB2CB2FC23C2E82731B</styleUrl>
+			<Placemark id="5907A141A4000002">
+				<name>UBS VALTER DE JESUS ROCHA</name>
+				<description>Tv. 3 A Jd Mariana, 500- Lot. Jardim Mariana, Nossa Sra. do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.050939,-10.846243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A4000003">
+				<name>UBS SUZINETE DA SILVA DIAS</name>
+				<description>Av Novo Horizonte, s/n - Distrito Industrial de Socorro, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.072741,-10.8387783,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A4000005">
+				<name>UBS AUGUSTO CESAR LEITE F.</name>
+				<styleUrl>#__managed_style_16D5DE83C53C2E82731C</styleUrl>
+				<Point>
+					<coordinates>-37.05505,-10.85387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A4000006">
+				<name>UBS CLÍNICA MARIA HELENA BARBOSA MELO</name>
+				<description>Av. Coletora A, 928, Nossa Senhora do Socorro, Marcos Freire I</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.07186,-10.8519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A4000007">
+				<name>UBS GABRIEL ALVES DA PAIXÃO</name>
+				<description>Av. Fortunato Mendonça, n 76, Fernando Collor, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.0947062,-10.8614293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A4000008">
+				<name>UBS ALCIDES ALVES DOS SANTOS</name>
+				<description>R. Nossa Sra. de Fátima, 1186-1482, Tabocas, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.13542,-10.87227,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A4000009">
+				<name>UBS POVOADO LAVANDEIRA</name>
+				<description>Povoado Lavandeira, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.2017132,-10.8708649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A400000A">
+				<name>UBS ANTONIO C. LEITE FRANCO</name>
+				<description>Rua A, nº 01, Santo Inácio, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1594106,-10.9155377,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A400000B">
+				<name>UBS EDUARDO VITAL</name>
+				<description>Rua J, nº 100, Jardim, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1459387,-10.8904853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A400000C">
+				<name>UBS EX COMBATENTE 2º TENENTE WALTER JOSÉ DE OLIVEIRA</name>
+				<description>Rua Dr. Manoel dos Passos s/n, Nossa Senhora do Socorro Sede</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1264315,-10.8541224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A400000D">
+				<name>UBS MARCOS TELES</name>
+				<description>Av. Ver. João Dias da Cruz - Porto Grande, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.13004,-10.84043,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500000E">
+				<name>UBS ANTONIO NASCIMENTO</name>
+				<description>Zona Rural s/n, Estiva, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1455192,-10.8464375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500000F">
+				<name>UBS GERVASIO REIS</name>
+				<description>Av. Francisco Ivens de Sá Dias Branco, 186-194, Marcos Freire I, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.0674696,-10.8388881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000010">
+				<name>UBS GILTON REZENDE</name>
+				<description>Rua 55 S/N, Parque dos Faróis, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1328982,-10.9164559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000011">
+				<name>UBS HEITOR DIAS SOARES</name>
+				<description>Rua 167 n 04, Albano Franco, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.0637786,-10.8333811,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000012">
+				<name>UBS JOSAFÁ MOTA DE SOUZA</name>
+				<description>Av L s/n, Mutirão (J.A.F.), Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.086201,-10.8634883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000013">
+				<name>UBS JOSÉ ALVES DOS SANTOS</name>
+				<description>R. Maria Minita, n 604-802, Taiçoca de Dentro, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.07174,-10.83157,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000014">
+				<name>UBS JOSE DO PRADO BARRETO</name>
+				<description>Rua I, n 68, Piabeta, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.0556915,-10.8362519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000015">
+				<name>UBS JOSE DO PRADO F. NETO</name>
+				<description>Rua Jardim s/n, Oiteiros, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1656546,-10.8704951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000016">
+				<name>UBS ALCINO CORREIA DOS SANTOS</name>
+				<description>Av. Principal s/n, Bita, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1820793,-10.878673,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000017">
+				<name>UBS LAURO MAIA</name>
+				<description>Rua Alexandre Vasconcelos s/n, Sobrado, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.11736,-10.89796,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000018">
+				<name>UBS OTAVIANA DE MATOS</name>
+				<description>Av. D, n 112, Marcos Freire III, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.08165992082146,-10.83151019282074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000019">
+				<name>UBS PQ. NOSSA SRA. DE FÁTIMA</name>
+				<styleUrl>#__managed_style_4995D2483C3C2E82731C</styleUrl>
+				<Point>
+					<coordinates>-37.11068,-10.89538,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500001A">
+				<name>UBS PREF LUIZ PEREIRA DA SILVA</name>
+				<description>R.Quintino Bocaiúva, 292-314, Taiçoca de Fora, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.09489,-10.84092,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500001B">
+				<name>UBS SANTA CECÍLIA</name>
+				<description>Avenida Saneamento s/n, Santa Cecília, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1271636,-10.8912334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500001C">
+				<name>UBS VALDEMAR PINTO</name>
+				<description>Zona rural, Calumby, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.1167892,-10.8777382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500001D">
+				<name>UBS TANCREDO NEVES</name>
+				<description>Av. Simão Dias, 829-877, João Alves Filho, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.0818721,-10.8597728,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500001E">
+				<name>UBS JOSÉ DE CARVALHO PEIXOTO</name>
+				<description>Tv. Auxiliar I, 10 - Res. Sen. Maria do Carmo Nascimento, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.075219,-10.857506,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="07F2B6DC543C2B04AF08">
+				<name>UBS MUCIANO CABRAL</name>
+				<snippet></snippet>
+				<description>Av. Principal s/nº, Guajará, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.15524,-10.8993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A500001F">
+				<name>UBS MUGIVAL MESSIAS</name>
+				<description>Av. A Cinco, s/n, Marcos Freire I, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.06658218271678,-10.84811589631019,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5907A141A5000020">
+				<name>UBS MARIA LEONICE</name>
+				<description>Av. Saneamento s/n, Nossa Senhora do Socorro</description>
+				<styleUrl>#__managed_style_3A04CC4DAB3C2E82731B</styleUrl>
+				<Point>
+					<coordinates>-37.17898,-10.89198,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder id="5909AC48CE000001">
+		<name>Mapeamento Muciano</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+		<Folder id="5909AC48CE000002">
+			<name>Microárea 032</name>
+			<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			<Placemark id="5909AC48CE000003">
+				<name>Rua 2 de Fevereiro</name>
+				<address>Rua 2 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF000004">
+				<name>Rua 3 de Fevereiro</name>
+				<address>Rua 3 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF000005">
+				<name>Rua 12 de Fevereiro</name>
+				<address>Rua 12 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF000006">
+				<name>Rua 11 de Fevereiro</name>
+				<address>Rua 11 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF000007">
+				<name>Rua 13 de Fevereiro</name>
+				<address>Rua 13 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF000008">
+				<name>Rua 10 de Fevereiro</name>
+				<address>Rua 10 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF000009">
+				<name>Travessa Quissamã</name>
+				<address>Travessa Quissamã, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF00000A">
+				<name>Rua Nossa Senhora de Fátima</name>
+				<address>Rua Nossa Senhora de Fátima, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF00000B">
+				<name>Rua 1 de Fevereiro</name>
+				<address>Rua 1 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF00000C">
+				<name>Rua das Orquídeas</name>
+				<address>Rua das Orquídeas, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF00000D">
+				<name>Avenida Chesf 01</name>
+				<address>Avenida Chesf 01, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF00000E">
+				<name>Rua A1</name>
+				<address>Rua A1, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48CF00000F">
+				<name>Rua BC</name>
+				<address>Rua BC, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D7000010">
+				<name>Rua D</name>
+				<address>Rua D, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000011">
+				<name>Rua E</name>
+				<address>Rua E, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000012">
+				<name>Rua M</name>
+				<address>Rua M, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000013">
+				<name>Rua P</name>
+				<address>Rua P, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000014">
+				<name>Vila Ney</name>
+				<address>Vila Ney, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000015">
+				<name>Avenida Quissamã</name>
+				<address>Avenida Quissamã, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000016">
+				<name>Avenida Perimetral</name>
+				<address>Avenida Perimetral, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000017">
+				<name>Avenida Chesf</name>
+				<address>Avenida Chesf, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000018">
+				<name>Rua do Tanque</name>
+				<address>Rua do Tanque, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000019">
+				<name>Rua da Fazenda</name>
+				<address>Rua da Fazenda, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700001A">
+				<name>Travessa C</name>
+				<address>Travessa C, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700001B">
+				<name>Travessa D</name>
+				<address>Travessa D, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700001C">
+				<name>Travessa E</name>
+				<address>Travessa E, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700001D">
+				<name>Rua A</name>
+				<address>Rua A, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700001E">
+				<name>Rua B</name>
+				<address>Rua B, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700001F">
+				<name>Rua C (São Benedito)</name>
+				<address>Rua C (São Benedito), Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000020">
+				<name>Rua D (São Benedito)</name>
+				<address>Rua D (São Benedito), Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000021">
+				<name>Rua E (São Benedito)</name>
+				<address>Rua E (São Benedito), Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000022">
+				<name>Avenida 2 de Maio</name>
+				<address>Avenida 2 de Maio, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000023">
+				<name>Rua Dois de Maio</name>
+				<address>Rua Dois de Maio, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000024">
+				<name>Rua 4 de Janeiro</name>
+				<address>Rua 4 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000025">
+				<name>Rua 5 de Janeiro</name>
+				<address>Rua 5 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000026">
+				<name>Rua 6 de Janeiro</name>
+				<address>Rua 6 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000027">
+				<name>Rua 7 de Janeiro</name>
+				<address>Rua 7 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000028">
+				<name>Rua 9 de Janeiro</name>
+				<address>Rua 9 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000029">
+				<name>Rua 10 de Janeiro</name>
+				<address>Rua 10 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700002A">
+				<name>Rua 11 de Janeiro</name>
+				<address>Rua 11 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700002B">
+				<name>Rua 12 de Janeiro</name>
+				<address>Rua 12 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D700002C">
+				<name>Rua 13 de Janeiro</name>
+				<address>Rua 13 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D700002D">
+				<name>Rua 14 de Janeiro</name>
+				<address>Rua 14 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D700002E">
+				<name>Praça 16 de Janeiro</name>
+				<address>Praça 16 de Janeiro, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D700002F">
+				<name>Avenida Rosa de Maio</name>
+				<address>Avenida Rosa de Maio, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+		</Folder>
+		<Folder id="5909AC48D7000030">
+			<name>Microárea 09</name>
+			<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			<Placemark id="5909AC48D7000031">
+				<name>Rua 9</name>
+				<address>Rua 9, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D7000032">
+				<name>Rua 11</name>
+				<address>Rua 11, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000033">
+				<name>Rua 10</name>
+				<address>Rua 10, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000034">
+				<name>Rua 8</name>
+				<address>Rua 8, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000035">
+				<name>Rua 4</name>
+				<address>Rua 4, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000036">
+				<name>Rua Existente</name>
+				<address>Rua Existente, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D8000037">
+				<name>Avenida Principal</name>
+				<address>Avenida Principal, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000038">
+				<name>Rua Padre Cícero</name>
+				<address>Rua Padre Cícero, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000039">
+				<name>Travessa Padre Cícero</name>
+				<address>Travessa Padre Cícero, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800003A">
+				<name>Rua São Luiz</name>
+				<address>Rua São Luiz, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800003B">
+				<name>Rua B</name>
+				<address>Rua B, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800003C">
+				<name>Rua Treze</name>
+				<address>Rua Treze, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800003D">
+				<name>Rua Otto</name>
+				<address>Rua Otto, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800003E">
+				<name>Rua E</name>
+				<address>Rua E, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800003F">
+				<name>Rua Profeta Eliseu</name>
+				<address>Rua Profeta Eliseu, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000040">
+				<name>Rua Jorge Amado</name>
+				<address>Rua Jorge Amado, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000041">
+				<name>Rua J. Emílio de Carvalho</name>
+				<address>Rua J. Emílio de Carvalho, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000042">
+				<name>Rua Joze Aloisio da Silva</name>
+				<address>Rua Joze Aloisio da Silva, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000043">
+				<name>Rua Elias Almeida</name>
+				<address>Rua Elias Almeida, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000044">
+				<name>Rua Antonio Torres</name>
+				<address>Rua Antonio Torres, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000045">
+				<name>Travessa Jucelino Emilio</name>
+				<address>Travessa Jucelino Emilio, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000046">
+				<name>Rua Humberto Silva</name>
+				<address>Rua Humberto Silva, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000047">
+				<name>Rua Ezequiel Cardoso</name>
+				<address>Rua Ezequiel Cardoso, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D8000048">
+				<name>Rua Projetada</name>
+				<address>Rua Projetada, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000049">
+				<name>Travessa Agepino</name>
+				<address>Travessa Agepino, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D800004A">
+				<name>Rua Almeida Fraga</name>
+				<address>Rua Almeida Fraga, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D800004B">
+				<name>Rua F</name>
+				<address>Rua F, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800004C">
+				<name>Rua H</name>
+				<address>Rua H, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800004D">
+				<name>Rua G</name>
+				<address>Rua G, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D800004E">
+				<name>Rua Santa Barbara</name>
+				<address>Rua Santa Barbara, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D800004F">
+				<name>Travessa Santa Bárbara</name>
+				<address>Travessa Santa Bárbara, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D8000050">
+				<name>Travessa I</name>
+				<address>Travessa I, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000051">
+				<name>Travessa E</name>
+				<address>Travessa E, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000052">
+				<name>Rua Colonial</name>
+				<address>Rua Colonial, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000053">
+				<name>Rua K</name>
+				<address>Rua K, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000054">
+				<name>Rua C</name>
+				<address>Rua C, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000055">
+				<name>Rua Odálio Golveia</name>
+				<address>Rua Odálio Golveia, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+				<Point>
+					<coordinates>0,0,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909AC48D8000056">
+				<name>Rua Balbino José</name>
+				<address>Rua Balbino José, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+			<Placemark id="5909AC48D8000057">
+				<name>Rua Bela Vista</name>
+				<address>Rua Bela Vista, Guajará, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_74A3415A373C2E82731C</styleUrl>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder id="5909DC4F00000001">
+		<name>Mapeamento UBS Valter de Jesus Rocha - São Braz</name>
+		<open>1</open>
+		<description>Bairro: São Braz - Nossa Senhora do Socorro/SE</description>
+		<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+		<Folder id="5909DC4F00000002">
+			<name>Todas as Ruas</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			<Placemark id="5909DC4F00000003">
+				<name>Rua Aramuru (MA 01)</name>
+				<address>Rua Aramuru, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000004">
+				<name>Rua Caete (MA 01)</name>
+				<address>Rua Caete, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000005">
+				<name>Rua Caxico (MA 01)</name>
+				<address>Rua Caxico, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000006">
+				<name>Rua Karapotó (MA 01)</name>
+				<address>Rua Karapato, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000007">
+				<name>Rua Pataxo (MA 01)</name>
+				<address>Rua Pataco, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000008">
+				<name>Av. Tomoio (MA 01)</name>
+				<address>Av. Tomoio, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000009">
+				<name>Rua Tapuia (MA 01)</name>
+				<address>Rua Tapuia, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000000A">
+				<name>Rua Tupinamba (MA 01)</name>
+				<address>Rua Tupinamba, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000000B">
+				<name>Rua Xoco Guara (MA 01)</name>
+				<address>Rua Xoco Guara, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000000C">
+				<name>Rua Xingú (MA 01)</name>
+				<address>Rua Xingú, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000000D">
+				<name>Rua Espirito Santo (MA 01)</name>
+				<address>Rua Espirito Santo, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000000E">
+				<name>Av. Florionopolis (MA 01)</name>
+				<address>Av. Florionopolis, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000000F">
+				<name>Rua Mato Grosso (MA 01)</name>
+				<address>Rua Mato Grosso, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000010">
+				<name>Travessa Mato Grosso (MA 01)</name>
+				<address>Travessa Mato Grosso, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000011">
+				<name>Rua Santa Catarina (MA 01)</name>
+				<address>Rua Santa Catarina, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000012">
+				<name>Av. Curitiba (MA 01)</name>
+				<address>Av. Curitiba, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000013">
+				<name>Travessa Curitiba (MA 01)</name>
+				<address>Travessa Curitiba, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000014">
+				<name>Av. Eng. Galvão (MA 01)</name>
+				<address>Av. Eng. Galvão, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000015">
+				<name>Rua Parana (MA 02)</name>
+				<address>Rua Parana, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000016">
+				<name>Rua Porto Alegre (MA 02)</name>
+				<address>Rua Porto Alegre, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000017">
+				<name>Rua Rio de Janeiro (MA 02)</name>
+				<address>Rua Rio de Janeiro, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000018">
+				<name>Rua São Paulo (MA 02)</name>
+				<address>Rua São Paulo, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000019">
+				<name>Av. Engenheiro Luciano Santana Gaalvão (MA 02)</name>
+				<address>Av. Engenheiro Luciano Santana Gaalvão, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000001A">
+				<name>Rua 05 (MA 02)</name>
+				<address>Rua 05, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000001B">
+				<name>Travessa 19 (MA 02)</name>
+				<address>Travessa 19, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000001C">
+				<name>Travessa 17 (MA 02)</name>
+				<address>Travessa 17, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000001D">
+				<name>Rua Espirito Santo (MA 02)</name>
+				<address>Rua Espirito Santo, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000001E">
+				<name>Rua Goias (MA 02)</name>
+				<address>Rua Goias, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000001F">
+				<name>Rua Mato Grosso (MA 02)</name>
+				<address>Rua Mato Grosso, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000020">
+				<name>Travessa 16 (MA 02)</name>
+				<address>Travessa 16, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000021">
+				<name>Travessa Maria Freire (MA 02)</name>
+				<address>Travessa Maria Freire, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000022">
+				<name>Travessa 20 (MA 02)</name>
+				<address>Travessa 20, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000023">
+				<name>Rua A - Jardim Esperança (MA 02)</name>
+				<address>Rua A Jardim Esperança, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000024">
+				<name>Rua B - Jardim Esperança (MA 02)</name>
+				<address>Rua B Jardim Esperança, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000025">
+				<name>Rua 09 (MA 03)</name>
+				<address>Rua 09, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000026">
+				<name>Rua 03 (MA 03)</name>
+				<address>Rua 03, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000027">
+				<name>Rua 02 (MA 03)</name>
+				<address>Rua 02, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000028">
+				<name>Rua 01 (MA 03)</name>
+				<address>Rua 01, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000029">
+				<name>Rua Distrito Federal (MA 03)</name>
+				<address>Rua Distrito Federal, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000002A">
+				<name>Rua Minas Gerais (MA 03)</name>
+				<address>Rua Minas Gerais, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000002B">
+				<name>Rua Goias (MA 03)</name>
+				<address>Rua Goias, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000002C">
+				<name>Av. Curitiba (MA 03)</name>
+				<address>Av. Curitiba, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000002D">
+				<name>Av. Florionopolis (MA 03)</name>
+				<address>Av. Florionopolis, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000002E">
+				<name>Rua Mato Grosso (MA 03)</name>
+				<address>Rua Mato Grosso, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000002F">
+				<name>Rua Mato Grosso do Sul (MA 03)</name>
+				<address>Rua Mato Grosso do Sul, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000030">
+				<name>Rua Tapuia (MA 04)</name>
+				<address>Rua Tapuia, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000031">
+				<name>Rua Kariri-Xoco (MA 04)</name>
+				<address>Rua Kariri-Xoco, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000032">
+				<name>Rua Novo Acesso (MA 04)</name>
+				<address>Rua Novo Acesso, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000033">
+				<name>Av. Tupiniquins (MA 04)</name>
+				<address>Av. Tupiniquins, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000034">
+				<name>Av. Tamoio (MA 04)</name>
+				<address>Av. Tamoio, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000035">
+				<name>Rua Potiguara (MA 04)</name>
+				<address>Rua Potiguara, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000036">
+				<name>Rua 07 (MA 04)</name>
+				<address>Rua 07, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000037">
+				<name>Rua 08 (MA 04)</name>
+				<address>Rua 08, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000038">
+				<name>Rua 09 (MA 04)</name>
+				<address>Rua 09, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F00000039">
+				<name>Rua 10 (MA 04)</name>
+				<address>Rua 10, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000003A">
+				<name>Rua 11 (MA 04)</name>
+				<address>Rua 11, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000003B">
+				<name>Rua 12 (MA 04)</name>
+				<address>Rua 12, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0000003C">
+				<name>Rua 13 (MA 04)</name>
+				<address>Rua 13, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+				<Point>
+					<coordinates>-37.04909595010545,-10.84591558889341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5909DC4F0200003D">
+				<name>Rua 14 (MA 04)</name>
+				<address>Rua 14, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0200003E">
+				<name>Rua 15 (MA 04)</name>
+				<address>Rua 15, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F0200003F">
+				<name>Rua Bras (MA 04)</name>
+				<address>Rua Bras, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F02000040">
+				<name>Rua Diego Emerson (MA 04)</name>
+				<address>Rua Diego Emerson, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F02000041">
+				<name>Av. Eng. Luciano Galvão (MA 04)</name>
+				<address>Av. Eng. Luciano Galvão, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+			<Placemark id="5909DC4F03000042">
+				<name>Rua D3 (MA 04)</name>
+				<address>Rua D3, São Braz, Nossa Senhora do Socorro - SE</address>
+				<styleUrl>#__managed_style_0F146101EC3C2E827319</styleUrl>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
+��2�file:///c:/Users/drmax/Documents/SECRETARIA/mapeamento/Mapeamento%20de%20%C3%81reas%20de%20Sa%C3%BAde%20-%20Nossa%20Senhora%20do%20Socorro%20%281%29.kml

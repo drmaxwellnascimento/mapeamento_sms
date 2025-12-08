@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_TASK",
+  "summary": "Task list for building the Gemini Windows Voice Assistant, covering setup, core modules (audio, windows tools, gemini), main logic, and verification.",
+  "updatedAt": "2025-11-30T13:31:04.681759900Z"
+}
