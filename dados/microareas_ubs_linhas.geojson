@@ -1,0 +1,254 @@
+{
+  "type": "FeatureCollection",
+  "name": "microareas_ubs_linhas",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ubs_referencia": "Muciano Guajara",
+        "micro_area": 32,
+        "cor": "#E63946",
+        "stroke": "#E63946",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.1782132,
+            -10.8894428
+          ],
+          [
+            -37.1607304,
+            -10.8987937
+          ],
+          [
+            -37.1570744,
+            -10.9003407
+          ],
+          [
+            -37.1436603,
+            -10.8999085
+          ],
+          [
+            -37.1265527,
+            -10.8970991
+          ],
+          [
+            -37.1426167,
+            -10.8894722
+          ],
+          [
+            -37.1557627,
+            -10.886304
+          ],
+          [
+            -37.1782132,
+            -10.8894428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ubs_referencia": "Muciano Guajara",
+        "micro_area": 9,
+        "cor": "#E63946",
+        "stroke": "#E63946",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.1608445,
+            -10.8970742
+          ],
+          [
+            -37.1594478,
+            -10.9000521
+          ],
+          [
+            -37.1503541,
+            -10.9044721
+          ],
+          [
+            -37.1441411,
+            -10.9026273
+          ],
+          [
+            -37.1265527,
+            -10.8970991
+          ],
+          [
+            -37.1605749,
+            -10.8868821
+          ],
+          [
+            -37.1608445,
+            -10.8970742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ubs_referencia": "Valter Rocha",
+        "micro_area": 1,
+        "cor": "#1D3557",
+        "stroke": "#1D3557",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.0549626,
+            -10.8534024
+          ],
+          [
+            -37.050555,
+            -10.850387
+          ],
+          [
+            -37.052148,
+            -10.8485397
+          ],
+          [
+            -37.0545692,
+            -10.8484499
+          ],
+          [
+            -37.0549626,
+            -10.8534024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ubs_referencia": "Valter Rocha",
+        "micro_area": 2,
+        "cor": "#1D3557",
+        "stroke": "#1D3557",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.0706023,
+            -10.8307986
+          ],
+          [
+            -37.0528207,
+            -10.8555666
+          ],
+          [
+            -37.0527967,
+            -10.855582
+          ],
+          [
+            -37.0497129,
+            -10.8502756
+          ],
+          [
+            -37.0512203,
+            -10.8447381
+          ],
+          [
+            -37.0706023,
+            -10.8307986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ubs_referencia": "Valter Rocha",
+        "micro_area": 3,
+        "cor": "#1D3557",
+        "stroke": "#1D3557",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.0750005,
+            -10.8532956
+          ],
+          [
+            -37.0549626,
+            -10.8534024
+          ],
+          [
+            -37.0497129,
+            -10.8502756
+          ],
+          [
+            -37.0504601,
+            -10.848655
+          ],
+          [
+            -37.0750005,
+            -10.8532956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ubs_referencia": "Valter Rocha",
+        "micro_area": 4,
+        "cor": "#1D3557",
+        "stroke": "#1D3557",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -37.0916369,
+            -10.8586131
+          ],
+          [
+            -37.0769102,
+            -10.8706436
+          ],
+          [
+            -37.0549626,
+            -10.8534024
+          ],
+          [
+            -37.0521436,
+            -10.8505377
+          ],
+          [
+            -37.0503647,
+            -10.8455629
+          ],
+          [
+            -37.052885,
+            -10.8329192
+          ],
+          [
+            -37.0916369,
+            -10.8586131
+          ]
+        ]
+      }
+    }
+  ]
+}

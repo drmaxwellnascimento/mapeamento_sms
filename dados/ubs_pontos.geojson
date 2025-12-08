@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "name": "ubs_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "UBS Muciano Cabral (Guajará)",
+        "ubs_referencia": "Muciano Guajara",
+        "endereco": "Av. Principal, 515 - Guajará, Nossa Sra. do Socorro - SE",
+        "cor": "#E63946",
+        "marker-color": "#E63946",
+        "marker-size": "large",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.146,
+          -10.886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "UBS Valter Rocha (Jardim Mariana)",
+        "ubs_referencia": "Valter Rocha",
+        "endereco": "Tv. 3 A Jd Mariana, 500 - Lot. Jardim Mariana, Nossa Sra. do Socorro - SE",
+        "cor": "#1D3557",
+        "marker-color": "#1D3557",
+        "marker-size": "large",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0522,
+          -10.8459
+        ]
+      }
+    }
+  ]
+}
