@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Valdemar Pinto </name>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ff852c59</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff852c59</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_5">
+      <IconStyle>
+        <color>ffa32865</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa32865</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Estrada Lazareto</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 2
+Endereço: Estrada Lazareto, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1150564,-10.867837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua dos Viveiros</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 2
+Endereço: Rua dos Viveiros, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1120222,-10.8738214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Emerson Menezes</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 2
+Endereço: Tv. Emerson Menezes, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1108731,-10.870235,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Felix de Andrade</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 2
+Endereço: Tv. Felix de Andrade, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1169251,-10.9222071,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Rua Principal</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 5
+Endereço: Rua Principal, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0961017,-10.8783226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Via Férrea</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 5
+Endereço: Via Férrea, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.1458485,-10.8464118,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua das Mangueiras</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 5
+Endereço: Rua das Mangueiras, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.1154323,-10.8736785,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sitio Porto</name>
+        <description>
+UBS: Valdemar Pinto 
+Microárea: 5
+Endereço: Sitio Porto, Calumbi, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.1120222,-10.8738214,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

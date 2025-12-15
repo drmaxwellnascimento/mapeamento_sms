@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Parque Nossa Senhora de Fátima</name>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ff7d22c3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff7d22c3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ff8d19e5</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8d19e5</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>ff9a24f3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff9a24f3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma5">
+      <IconStyle>
+        <color>ff9f65cc</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff9f65cc</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma6">
+      <IconStyle>
+        <color>ff60238e</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff60238e</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma7">
+      <IconStyle>
+        <color>ff6f1ead</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff6f1ead</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Avenida Ferrea</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Avenida Ferrea, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1043676,-10.8953735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua B, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1139953,-10.8945763,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua C, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1078772,-10.8973252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua D, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1116386,-10.8960993,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua E, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1100274,-10.8955522,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada Velha do Sobrado</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Estrada Velha do Sobrado, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1181665,-10.8980142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua F</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua F, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1108962,-10.8951818,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua G</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua G, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1109893,-10.8945392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa G</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Travessa G, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.105092,-10.8956263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua I</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 2
+Endereço: Rua I, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1086099,-10.8964503,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Avenida Ferrea</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Avenida Ferrea, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1043676,-10.8953735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Rua A, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1037364,-10.8947551,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Rua B, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1139953,-10.8945763,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Rua C, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1078772,-10.8973252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada Velha do Sobrado</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Estrada Velha do Sobrado, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1181665,-10.8980142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua G</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Rua G, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1109893,-10.8945392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Rua D, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1116386,-10.8960993,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa G</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Travessa G, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.105092,-10.8956263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Leste</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 3
+Endereço: Avenida Leste, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1448706,-10.8869674,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Avenida Canal</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Avenida Canal, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1024374,-10.8955616,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Canal 2</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Avenida Canal 2, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1027171,-10.8960727,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Canal 2</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Travessa Canal 2, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1027984,-10.8950402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Canal 2 Assentamento</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Travessa Canal 2 Assentamento, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1027984,-10.8950402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Rua B, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1139953,-10.8945763,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Rua C, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1078772,-10.8973252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 4
+Endereço: Rua E, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1100274,-10.8955522,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 5
+Endereço: Rua E, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1100274,-10.8955522,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua F</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 5
+Endereço: Rua F, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1108962,-10.8951818,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua K</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 5
+Endereço: Rua K, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.111835,-10.8950923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua L</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 5
+Endereço: Rua L, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1146886,-10.8915698,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua M</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 5
+Endereço: Rua M, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1157342,-10.8915653,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa F</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 5
+Endereço: Travessa F, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1261853,-10.8977026,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 6</name>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua A, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1037364,-10.8947551,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua C, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1078772,-10.8973252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua D, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1116386,-10.8960993,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua N</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua N, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1111547,-10.8959953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua O</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua O, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1137658,-10.8923507,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua P</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua P, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1162617,-10.8906318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Q</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua Q, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1111948,-10.8969072,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua R</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua R, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1161665,-10.890316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua S</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua S, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1175639,-10.8900857,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua V</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Rua V, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1176387,-10.8911436,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Chesf</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 6
+Endereço: Avenida Chesf, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma6</styleUrl>
+        <Point>
+          <coordinates>-37.1172331,-10.8952247,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 7</name>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua A, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1037364,-10.8947551,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua C, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1078772,-10.8973252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua I</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua I, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1086099,-10.8964503,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua E, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1100274,-10.8955522,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua F</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua F, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1108962,-10.8951818,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua G</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua G, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1109893,-10.8945392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua H</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua H, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1106237,-10.8941586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua J</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Rua J, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1120105,-10.8941637,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Ferrea</name>
+        <description>
+UBS: Parque Nossa Senhora de Fátima
+Microárea: 7
+Endereço: Avenida Ferrea, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma7</styleUrl>
+        <Point>
+          <coordinates>-37.1043676,-10.8953735,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

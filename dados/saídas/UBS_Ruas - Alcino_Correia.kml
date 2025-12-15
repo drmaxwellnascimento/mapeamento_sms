@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Alcino Correia dos Santos</name>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ff19e2e5</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff19e2e5</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Avenida Principal</name>
+        <description>
+UBS: Alcino Correia dos Santos
+Microárea: 3
+Endereço: Avenida Principal, Bita, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1452049,-10.884538,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Mucuri de Fora</name>
+        <description>
+UBS: Alcino Correia dos Santos
+Microárea: 3
+Endereço: Rua Mucuri de Fora, Bita, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.18352610000001,-10.8831347,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazendinha</name>
+        <description>
+UBS: Alcino Correia dos Santos
+Microárea: 3
+Endereço: Fazendinha, Bita, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.2054678,-10.8753686,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Tancredo Neves </name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff852c45</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff852c45</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ffa3284b</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa3284b</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ffc3224f</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffc3224f</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ffe51953</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffe51953</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_5">
+      <IconStyle>
+        <color>fff3245f</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>fff3245f</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua 10 (Capela)</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 10 (Capela), João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.079663,-10.8548099,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 07</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 07, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0916369,-10.8586131,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 16 B</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 16 B, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0801481,-10.8572374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 18 A</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 18 A, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.080111,-10.8581393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av J</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Av J, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0813506,-10.8567898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 20</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 20, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0798648,-10.8585437,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 13 A</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 13 A, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0915924,-10.8614528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 13 B</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 13 B, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0899289,-10.8608128,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv Mangueiras</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Tv Mangueiras, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0439937,-10.9278774,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 11, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0845003,-10.8560861,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 01</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua 01, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0750005,-10.8532956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 02</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Travessa 02, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0528651,-10.8552939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Coletora</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Avenida Coletora, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0891464,-10.8529523,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Nova Alvorada</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 1
+Endereço: Rua Nova Alvorada, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0779979,-10.8536161,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Tv 10</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Tv 10, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0921731,-10.8586519,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 10 (Capela)</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua 10 (Capela), João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.079663,-10.8548099,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida J (Aracaju)</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida J (Aracaju), João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0813506,-10.8567898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Principal (Socorro)</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida Principal (Socorro), João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.081939,-10.8567002,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv Nossa Senhora do Socorro</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Tv Nossa Senhora do Socorro, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.081939,-10.8567002,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 23</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua 23, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0794106,-10.8598458,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 24 Arauá</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua 24 Arauá, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0794852,-10.8603318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 23</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Travessa 23, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.07581,-10.8694877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 09</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua 09, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0521895,-10.8494823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua 11, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0845003,-10.8560861,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua D, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0933661,-10.8528514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv 11</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Tv 11, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0915351,-10.8587844,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 01</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Rua 01, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0750005,-10.8532956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 01</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Travessa 01, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 05</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Travessa 05, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0527967,-10.855582,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 07</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Travessa 07, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0527967,-10.855582,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida J</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida J, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0813506,-10.8567898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida H</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida H, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0845747,-10.8542305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida C</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida C, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0858499,-10.8542814,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida A</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida A, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0850451,-10.8529317,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida D</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 2
+Endereço: Avenida D, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0752767,-10.8348918,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Avenida K</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Avenida K, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0778886,-10.8502457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 12</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua 12, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.069999,-10.8465636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 14</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua 14, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0769102,-10.8706436,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv 12</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Tv 12, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0916561,-10.8595698,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv 14</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Tv 14, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0919035,-10.8601915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida J</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Avenida J, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0813506,-10.8567898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 22</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua 22, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0797681,-10.858994,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 22</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Travessa 22, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.093538,-10.8594027,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 23</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua 23, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0794106,-10.8598458,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 8</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua 8, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0841416,-10.8550999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av F</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Av F, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0853231,-10.8551289,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 4</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua 4, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0923628,-10.8570783,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D9</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 3
+Endereço: Rua D9, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0869613,-10.9679381,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Travessa 23</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Travessa 23, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.07581,-10.8694877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 24 Arauá</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Rua 24 Arauá, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0794852,-10.8603318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 09</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Rua 09, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0521895,-10.8494823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C1</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Rua C1, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1164765,-10.8931997,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 06</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Rua 06, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.102455,-10.8979254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida I</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Avenida I, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0828214,-10.8561865,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida E</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Avenida E, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.084226,-10.8535646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida G</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Avenida G, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0800666,-10.8496985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida F</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 4
+Endereço: Avenida F, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0853231,-10.8551289,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Primeira Rua 24 (Aruana)</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 5
+Endereço: Primeira Rua 24 (Aruana), João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0794852,-10.8603318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Segunda Rua 24 (Aruana)</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 5
+Endereço: Segunda Rua 24 (Aruana), João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0794852,-10.8603318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv 23</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 5
+Endereço: Tv 23, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.07581,-10.8694877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv Manoel Santos Barros</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 5
+Endereço: Tv Manoel Santos Barros, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0555508,-10.8530169,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Areal Mangabeira</name>
+        <description>
+UBS: Tancredo Neves 
+Microárea: 5
+Endereço: Avenida Areal Mangabeira, João Alves, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0768845,-10.8564458,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

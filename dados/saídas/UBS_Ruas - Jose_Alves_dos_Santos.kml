@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Jose Alves dos Santos</name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff75852c</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff75852c</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ff8ca328</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8ca328</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ffa5c322</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa5c322</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ffc0e519</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffc0e519</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_5">
+      <IconStyle>
+        <color>ffcdf324</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffcdf324</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua 170</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 170, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0685186,-10.8343922,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 171</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 171, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0682644,-10.8340494,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 172</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 172, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0677217,-10.8338192,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 173</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 173, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0680193,-10.8332553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 174</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 174, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0680017,-10.8328117,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 175</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 175, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0680037,-10.8323455,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 176</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 1
+Endereço: Rua 176, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0679068,-10.8319324,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua 169</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 2
+Endereço: Rua 169, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0687286,-10.834757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 42</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 2
+Endereço: Rua A 42, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0731549,-10.8856242,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral H 69 a 831</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 2
+Endereço: Av. Perimetral H 69 a 831, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0695793,-10.8344286,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Perimetral H</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 2
+Endereço: Tv. Perimetral H, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0681187,-10.8313763,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua 177</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 3
+Endereço: Rua 177, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0676294,-10.8316029,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 181</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 3
+Endereço: Rua 181, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0667787,-10.829868,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 182</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 3
+Endereço: Rua 182, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0665658,-10.8304058,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 183</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 3
+Endereço: Rua 183, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0661808,-10.8305888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 43</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 3
+Endereço: Rua A 43, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0769993,-10.8848373,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua 178</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 4
+Endereço: Rua 178, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0678641,-10.829191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 179</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 4
+Endereço: Rua 179, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0675751,-10.8295922,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 180</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 4
+Endereço: Rua 180, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0671944,-10.8297839,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral H</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 4
+Endereço: Av. Perimetral H, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0681187,-10.8313763,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Coletora C</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 4
+Endereço: Av. Coletora C, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Rua Maria Minita</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua Maria Minita, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.070858,-10.8335633,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Maria Minita</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Tv. Maria Minita, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0706023,-10.8307986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maria dos Santos</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua Maria dos Santos, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0705983,-10.8323291,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Jose Jailton</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua Jose Jailton, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0729783,-10.8323641,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Escola</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua da Escola, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0726842,-10.8299028,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Cisterna</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua da Cisterna, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0726842,-10.8299028,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Josefa Marques</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua Josefa Marques, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0745645,-10.8323398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Josefa Marques</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Tv. Josefa Marques, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0745645,-10.8323398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Manoel Messias</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua Manoel Messias, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0720527,-10.8296662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alto do Cruzeiro</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Rua Alto do Cruzeiro, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0726098,-10.8292251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Alto do Cruzeiro</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Tv. Alto do Cruzeiro, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0726098,-10.8292251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lot. Alto do Cruzeiro</name>
+        <description>
+UBS: Jose Alves dos Santos
+Microárea: 5
+Endereço: Lot. Alto do Cruzeiro, Taiçoca de Dentro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0726098,-10.8292251,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

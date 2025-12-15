@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - UBS José do Prado Franco Neto</name>
+    <Style id="style_ma1">
+      <IconStyle>
+        <color>ff2868a3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2868a3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ff2275c3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2275c3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua do Jardim</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 1
+Endereço: Rua do Jardim, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Anita Leite Farias</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 1
+Endereço: Rua Anita Leite Farias, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1358993,-10.8949316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Zeca Danga</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 1
+Endereço: Rua Zeca Danga, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Maxixe</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 1
+Endereço: Rua do Maxixe, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazenda Candeias</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 1
+Endereço: Fazenda Candeias, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazenda Mucuri</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 1
+Endereço: Fazenda Mucuri, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1653996,-10.884857,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua da BR</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua da BR, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Igreja</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua da Igreja, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1664876,-10.870771,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Caixa d'água</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua da Caixa d'água, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Largo do Cruzeiro</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua Largo do Cruzeiro, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Adilson</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua do Adilson, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Cabelão</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua do Cabelão, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Estrada da Bita</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Rua Estrada da Bita, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1654765,-10.8705601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa João Santana</name>
+        <description>
+UBS: UBS José do Prado Franco Neto
+Microárea: 2
+Endereço: Travessa João Santana, Povoado Oiteiros, Nossa Senhora do Socorro/SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0545558,-10.9758517,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

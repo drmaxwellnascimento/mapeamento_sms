@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Alcides Alves dos Santos</name>
+    <Style id="style_ma1">
+      <IconStyle>
+        <color>ffa3285f</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa3285f</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ffc3226a</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffc3226a</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ffe51975</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffe51975</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>fff32481</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>fff32481</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Av. Boa Nova</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Av. Boa Nova, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.137303,-10.8734386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Largo Maria Madalena dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Av. Largo Maria Madalena dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0669409,-10.8507962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alcina Souza Ramos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Alcina Souza Ramos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1383733,-10.8720434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Boa Nova</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Boa Nova, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.137303,-10.8734386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Esmeraldo da Silva Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Esmeraldo da Silva Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1348408,-10.8706302,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Francisco de Souza Melo</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Francisco de Souza Melo, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1373873,-10.8724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Gabriel Alves da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Gabriel Alves da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1367981,-10.8773779,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Gerson Nogueira Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Gerson Nogueira Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1373345,-10.8718355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Joao Pereira da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Joao Pereira da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1199982,-10.8987683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José André dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua José André dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1428811,-10.873673,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Jose Jovino dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Jose Jovino dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1399248,-10.8729033,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Manoel Pereira da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Manoel Pereira da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.091092,-10.8437458,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maria Rosa da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Maria Rosa da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1366033,-10.8755056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Severiano dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Severiano dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.131257,-10.8655955,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Valdemar Francisco dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Rua Valdemar Francisco dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1353042,-10.8788041,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Afonso Alves</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Travessa Afonso Alves, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1366113,-10.8764983,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Tertuliano Bispo dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 1
+Endereço: Travessa Tertuliano Bispo dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua Alcina Souza Ramos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Alcina Souza Ramos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1383733,-10.8720434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Antilio dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Antilio dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.137303,-10.8734386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Esmeraldo da Silva</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Esmeraldo da Silva, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1348408,-10.8706302,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Francisco de Souza Melo</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Francisco de Souza Melo, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1373873,-10.8724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Gabriel Alves da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Gabriel Alves da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1367981,-10.8773779,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Josefa Alves Barros</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Josefa Alves Barros, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0745645,-10.8323398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José Jovino dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua José Jovino dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1399248,-10.8729033,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pedro Joaquim dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Pedro Joaquim dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1451634,-10.8722718,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Valdemar Francisco dos Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Valdemar Francisco dos Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1353042,-10.8788041,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Alfredo Gomes de Oliveira</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Travessa Alfredo Gomes de Oliveira, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1408401,-10.8732189,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Edelvira Marques da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Travessa Edelvira Marques da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.141702,-10.8733427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa José Augusto da Silva Santos</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Travessa José Augusto da Silva Santos, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1391594,-10.8731912,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maria Rosa da Paixão</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 2
+Endereço: Rua Maria Rosa da Paixão, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1366033,-10.8755056,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Avenida Principal</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 3
+Endereço: Avenida Principal, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1452049,-10.884538,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa B</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 3
+Endereço: Travessa B, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.101852,-10.9003357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da mangueira</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 3
+Endereço: Rua da mangueira, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1163817,-10.9030254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazenda Ribeira</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 3
+Endereço: Fazenda Ribeira, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1884399,-10.8546131,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Avenida Principal</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 4
+Endereço: Avenida Principal, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1452049,-10.884538,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da mangueira</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 4
+Endereço: Rua da mangueira, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1163817,-10.9030254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazendinha</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 4
+Endereço: Fazendinha, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0536099,-10.8551269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Izaltino Pereira</name>
+        <description>
+UBS: Alcides Alves dos Santos
+Microárea: 4
+Endereço: Rua Izaltino Pereira, Taboca, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.2033253,-10.8703799,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1971 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Gilton Rezende</name>
+    <Style id="style_ma1">
+      <IconStyle>
+        <color>ff2ca328</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2ca328</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ff27c322</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff27c322</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ff20e519</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff20e519</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>ff2bf324</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2bf324</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma5">
+      <IconStyle>
+        <color>ff69cc65</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff69cc65</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua Aumerindo de Souza</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Aumerindo de Souza, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1362106,-10.9174919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 20</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua 20, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1365549,-10.9134661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 21</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua 21, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1354616,-10.9143605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 24</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua 24, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1362106,-10.9174919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maria da Conceição Pinheiro</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Maria da Conceição Pinheiro, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1366268,-10.9152163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 30</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua 30, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1193162,-10.9359862,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 31</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua 31, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1342757,-10.9154442,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua A, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1353979,-10.9028269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa A</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Travessa A, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1347557,-10.9087291,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Cruzeiro do Sul</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Cruzeiro do Sul, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1376623,-10.9029973,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua D, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.13699,-10.9045569,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua E, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1372758,-10.9052062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida JS</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Avenida JS, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1382158,-10.9042724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maria Vicentina dos Santos</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Maria Vicentina dos Santos, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1368921,-10.9038563,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Chesf</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Avenida Chesf, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1378734,-10.9057403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Prefeito Humberto dos Santos</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Avenida Prefeito Humberto dos Santos, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1347724,-10.912541,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua R</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua R, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1395656,-10.9074478,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Coletora</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Avenida Coletora, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Flamboyan</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Flor de Flamboyan, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1343761,-10.9099246,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Bromélia</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Flor de Bromélia, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1343117,-10.9092318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Girassol</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Flor de Girassol, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1345458,-10.9096705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Eucalipto</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Flor de Eucalipto, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.134185,-10.9106627,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Hortência</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Flor de Hortência, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1349544,-10.9098879,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Íris</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 1
+Endereço: Rua Flor de Íris, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.1347357,-10.9104958,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua 21</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 21, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1354616,-10.9143605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 40</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 40, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0935281,-10.867876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 42</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 42, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1350237,-10.9167251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 43</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 43, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1362106,-10.9174919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 25</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 25, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1388045,-10.9124757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 26</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 26, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1387229,-10.9137886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 27</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 27, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1391294,-10.9138253,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 28</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 28, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1369781,-10.9139939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 32</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 32, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1383724,-10.9148753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 33</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 33, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1382682,-10.9155142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 34</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 34, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1378874,-10.9147905,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 35</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 35, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1391427,-10.9149968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 02</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 02, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1001707,-10.9004124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 03</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua 03, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Dernival dos Santos</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua Dernival dos Santos, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1380235,-10.9074083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Prefeito Humberto dos Santos</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Avenida Prefeito Humberto dos Santos, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1347724,-10.912541,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José dos Santos Reis</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua José dos Santos Reis, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1404466,-10.9024443,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Camomila</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua Flor de Camomila, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1335306,-10.911453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Dália</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua Flor de Dália, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.1338051,-10.9108825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Flor de Eucalipto</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 2
+Endereço: Rua Flor de Eucalipto, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.134185,-10.9106627,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua 46</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 46, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.136581,-10.9187109,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 48</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 48, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1386815,-10.9196221,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 49</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 49, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1380293,-10.9201746,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 52</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 52, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1368721,-10.9201448,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 67</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 67, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1336089,-10.9204435,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Itacanema</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Avenida Itacanema, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1318523,-10.913168,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua A, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1353979,-10.9028269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 56</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 56, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1317343,-10.9181977,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Lima Farias</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Travessa Lima Farias, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0754942,-10.9069479,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Itacanema 2</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Avenida Itacanema 2, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1318523,-10.913168,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acampamento Coração do Parque</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Acampamento Coração do Parque, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua AM</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua AM, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1353979,-10.9028269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Chesf</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Avenida Chesf, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1378734,-10.9057403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua F</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua F, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.140889,-10.9018073,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José dos Santos Sobrinho</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua José dos Santos Sobrinho, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1404466,-10.9024443,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua H</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua H, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1402259,-10.9030888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José Reis da Conceição</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua José Reis da Conceição, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1407078,-10.9037549,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua J</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua J, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1400415,-10.9043892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua L</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua L, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1423489,-10.9033495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua O</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua O, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1418452,-10.9025127,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua M</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua M, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1397226,-10.9078768,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Jorge Cardoso de Lima</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua Jorge Cardoso de Lima, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1441411,-10.9026273,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Prof.ª Eliza Teles</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua Prof.ª Eliza Teles, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.137204,-10.912227,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 20</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 20, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1365549,-10.9134661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 21</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 21, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1354616,-10.9143605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 22</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 3
+Endereço: Rua 22, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1357946,-10.9122113,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Travessa 56</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Travessa 56, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1326242,-10.9156618,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 56</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 56, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1317343,-10.9181977,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 57</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Travessa 57, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1332511,-10.9315431,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 57</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 57, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0995221,-10.9732157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 61</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 61, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1321792,-10.9173704,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 64</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 64, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1304103,-10.9192084,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 24</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 24, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1362106,-10.9174919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 46</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 46, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.136581,-10.9187109,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 47</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 47, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1346441,-10.918922,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 49</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 49, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1380293,-10.9201746,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 67</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 67, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1336089,-10.9204435,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 70</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 70, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1342668,-10.9222612,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua B, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1318977,-10.9135275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua C, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1395656,-10.9074478,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua E, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1372758,-10.9052062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua D, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.13699,-10.9045569,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Itacanema</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Avenida Itacanema, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1318523,-10.913168,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 01</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Travessa 01, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1330828,-10.9320185,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 02</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Travessa 02, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1330828,-10.9320185,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Marcos Magno</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua Marcos Magno, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1339758,-10.9177474,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 33</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 33, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1382682,-10.9155142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 04</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 04, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0923628,-10.8570783,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 05</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 05, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 06</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 06, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.102455,-10.8979254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 07</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 07, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1010899,-10.8995794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 09</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 09, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 20</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 20, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1365549,-10.9134661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 21</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 21, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1354616,-10.9143605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 28</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 28, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1369781,-10.9139939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 29</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 4
+Endereço: Rua 29, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1347635,-10.9142164,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Rua 49</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 49, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1380293,-10.9201746,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Prefeito Humberto dos Santos</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Avenida Prefeito Humberto dos Santos, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1347724,-10.912541,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 53</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 53, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1337077,-10.9198846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 54</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 54, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1331473,-10.9197336,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 67</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 67, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1336089,-10.9204435,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Beira Rio</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Avenida Beira Rio, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1318348,-10.9214999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 24</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 24, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1362106,-10.9174919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 36</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 36, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1365601,-10.9188391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 43</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 43, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1362106,-10.9174919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 46</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 46, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.136581,-10.9187109,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua das Flores</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua das Flores, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1306869,-10.9115225,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Castelo Branco</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Travessa Castelo Branco, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.130279,-10.9123953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Itacanema 2</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Avenida Itacanema 2, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1318523,-10.913168,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B2</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua B2, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.102386,-10.9878191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua C, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1395656,-10.9074478,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 07</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 07, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1010899,-10.8995794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua H</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua H, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1402259,-10.9030888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua J</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua J, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1400415,-10.9043892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua I</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua I, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1256154,-10.8992912,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua A, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1353979,-10.9028269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua B, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1318977,-10.9135275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa B</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Travessa B, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.101852,-10.9003357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Itacanema</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Travessa Itacanema, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1331625,-10.9315116,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua G</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua G, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.147767,-10.900542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua F</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua F, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.140889,-10.9018073,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua D, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.13699,-10.9045569,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua E, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1372758,-10.9052062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 30</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 30, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1193162,-10.9359862,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 32</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 32, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1383724,-10.9148753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua AC</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua AC, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Irmão Fego</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua Irmão Fego, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Chesf</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Avenida Chesf, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1378734,-10.9057403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Chesf</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Travessa Chesf, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1378734,-10.9057403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Y</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua Y, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1476955,-10.8937566,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua K</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua K, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1494703,-10.8972461,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua X</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua X, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1231222,-10.9282778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa São João</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Travessa São João, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1440678,-10.9035172,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua P</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua P, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1418787,-10.903942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Maneca Prudente</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Avenida Maneca Prudente, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1454562,-10.903631,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 08</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 08, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 15</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 15, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1363652,-10.9107648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 18</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 18, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1366712,-10.9108654,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 19</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 19, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1001436,-10.8992771,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 22</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua 22, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.1357946,-10.9122113,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Prof.ª Eliza Teles</name>
+        <description>
+UBS: Gilton Rezende
+Microárea: 5
+Endereço: Rua Prof.ª Eliza Teles, Parque dos Faróis, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.137204,-10.912227,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

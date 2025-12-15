@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - US Suziniete Gomes</name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff6b2c85</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff6b2c85</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ff7e28a3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff7e28a3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ff9222c3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff9222c3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ffa819e5</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa819e5</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua Novo Horizonte</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua Novo Horizonte, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0740963,-10.837587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Nova Esperança</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua Nova Esperança, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.074465,-10.8389123,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Limão</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua do Limão, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0753415,-10.8394977,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Jumbo</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua do Jumbo, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0764035,-10.8377671,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua N. S. de Lourdes</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua N. S. de Lourdes, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.075173,-10.838518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Frei Damião</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua Frei Damião, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0745952,-10.8383749,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Emiliano Moura</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua Emiliano Moura, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.079142,-10.8370413,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São José</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua São José, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0788923,-10.838122,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Lucas</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua São Lucas, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0786363,-10.8373569,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Central</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Rua Central, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.078021,-10.8380353,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Santo Expedito</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 1
+Endereço: Travessa Santo Expedito, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0786229,-10.8385425,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua V. Canadá I</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 2
+Endereço: Rua V. Canadá I, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0725343,-10.849909,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Perimetral I</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 2
+Endereço: Travessa Perimetral I, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0738928,-10.8355599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Paz</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 2
+Endereço: Rua da Paz, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0732917,-10.8385057,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa da Paz</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 2
+Endereço: Travessa da Paz, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.073317,-10.838161,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Clara Angélica (06 até 410)</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 2
+Endereço: Rua Clara Angélica (06 até 410), Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0758404,-10.8357534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa da Flores</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 2
+Endereço: Travessa da Flores, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0763612,-10.8378215,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua Frei Paulo</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Rua Frei Paulo, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0793848,-10.8374967,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Francisco</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Rua São Francisco, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0767532,-10.8373212,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Nossa Senhora da Conceição</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Rua Nossa Senhora da Conceição, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0776146,-10.8384798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Marcos</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Rua São Marcos, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0776146,-10.8384798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Carlos Cunha</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Rua Carlos Cunha, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1545432,-10.9113237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa São Pedro</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Travessa São Pedro, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0783609,-10.8363019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Nossa Senhora da Conceição</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Travessa Nossa Senhora da Conceição, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0783081,-10.8379896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa São Marcos</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Travessa São Marcos, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0776146,-10.8384798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Santo Antônio</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 3
+Endereço: Travessa Santo Antônio, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0570625,-10.8512677,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua H (acima de 406)</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Rua H (acima de 406), Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1542648,-10.901548,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Iasmim Catarine</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Rua Iasmim Catarine, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0768646,-10.8367793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Cruzeiro</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Rua do Cruzeiro, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0752596,-10.835283,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Ivone Ferreira</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Rua Ivone Ferreira, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0783609,-10.8363019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Cristo Rei</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Rua Cristo Rei, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0788802,-10.8388046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Ivone Ferreira</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Travessa Ivone Ferreira, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0783609,-10.8363019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Cristo Rei</name>
+        <description>
+UBS: US Suziniete Gomes
+Microárea: 4
+Endereço: Travessa Cristo Rei, Novo Horizonte, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0775168,-10.839012,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

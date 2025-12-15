@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Luaro Maia </name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff2c6b85</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2c6b85</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ff287ea3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff287ea3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Avenida Luiz Pereira da Silva</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Avenida Luiz Pereira da Silva, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1162785,-10.9024183,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da mangueira</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua da mangueira, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1163817,-10.9030254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Valda Vieira Lima</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua Valda Vieira Lima, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1170158,-10.9025731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Joao Cesário dos Santos</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua Joao Cesário dos Santos, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1176873,-10.9024686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pedro Oliveira</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua Pedro Oliveira, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1170745,-10.9021887,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Jasiel dos Santos</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua Jasiel dos Santos, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1090611,-10.9006757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Carlos Vasconcelos</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua Carlos Vasconcelos, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1195469,-10.9004836,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 1 Lot. Itacanema</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua 1 Lot. Itacanema, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1295267,-10.9127249,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 2 Lot. Itacanema</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua 2 Lot. Itacanema, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1283474,-10.9129789,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 3 Lot. Itacanema</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: Rua 3 Lot. Itacanema, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1280487,-10.9130438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BR 235 km 04</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 1
+Endereço: BR 235 km 04, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1157915,-10.9065471,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua Fatima Campos</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Rua Fatima Campos, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1188788,-10.8977432,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alexandre Pereira</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Rua Alexandre Pereira, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1199982,-10.8987683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Felix Rodrigues</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Rua Felix Rodrigues, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1187728,-10.896142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Principal</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Rua Principal, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1161253,-10.8920876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Josias Barreto</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Rua Josias Barreto, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1168068,-10.898588,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joao Pereira</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Joao Pereira, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1199982,-10.8987683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Principal</name>
+        <description>
+UBS: Luaro Maia 
+Microárea: 2
+Endereço: Travessa Principal, Sobrado, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

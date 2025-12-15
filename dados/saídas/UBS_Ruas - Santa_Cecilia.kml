@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Santa Cecilia</name>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ffe51967</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffe51967</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>fff32474</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>fff32474</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua 167</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 3
+Endereço: Rua 167, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0652125,-10.8330889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 133</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 3
+Endereço: Rua 133, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1243423,-10.891215,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 168</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 3
+Endereço: Rua 168, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.122657,-10.8917774,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 169</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 3
+Endereço: Rua 169, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0687286,-10.834757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 170</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 3
+Endereço: Rua 170, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1240001,-10.8935073,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Avenida 02</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Avenida 02, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1122446,-10.9220476,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 140</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 140, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1284287,-10.8923163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 142</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 142, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0617218,-10.833483,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 143</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 143, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0625503,-10.8339047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Itacanema</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Travessa Itacanema, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 144</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 144, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0627734,-10.8343157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 155</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 155, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0660006,-10.8364366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Saneamento</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Avenida Saneamento, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1285894,-10.8921648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 153</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 153, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0648957,-10.8380476,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 152</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 152, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0647988,-10.8376153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 151</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 151, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1319371,-10.8894223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sítio Floresta</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Sítio Floresta, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1268939,-10.8908359,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Antônio Maurício</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua Antônio Maurício, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1314419,-10.8924148,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 137</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 137, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1262514,-10.8922839,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 138</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 138, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1267699,-10.8925011,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 139</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 139, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1271997,-10.8927743,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 141</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 141, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1261918,-10.8922593,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 146</name>
+        <description>
+UBS: Santa Cecilia
+Microárea: 4
+Endereço: Rua 146, Santa Cecília, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1264057,-10.894528,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

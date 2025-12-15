@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Maria Lenice Santos do Nascimento</name>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>ff24f396</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff24f396</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua Principal A</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua Principal A, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1161253,-10.8920876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Campo</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua do Campo, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.155646,-10.8989331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Centro</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua do Centro, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1342488,-10.9133938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Caixa D'Água</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua da Caixa D'Água, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.126223,-10.894237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Curral</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua do Curral, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1790821,-10.8923549,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Principal B</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua Principal B, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1161253,-10.8920876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A C</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua A C, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.126223,-10.894237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Pedreira</name>
+        <description>
+UBS: Maria Lenice Santos do Nascimento
+Microárea: 4
+Endereço: Rua da Pedreira, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1460732,-10.853525,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

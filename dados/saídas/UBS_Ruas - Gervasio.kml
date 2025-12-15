@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Vereador Gervasio Reis</name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff857c2c</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff857c2c</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ffa39628</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa39628</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ffc3b322</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffc3b322</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ffe5d119</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffe5d119</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_5">
+      <IconStyle>
+        <color>fff3de24</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>fff3de24</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_6">
+      <IconStyle>
+        <color>ffccc165</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffccc165</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_7">
+      <IconStyle>
+        <color>ff8e8423</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff8e8423</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua 15</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 1
+Endereço: Rua 15, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1363652,-10.9107648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 16</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 1
+Endereço: Rua 16, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0801481,-10.8572374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral A</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 1
+Endereço: Av. Perimetral A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.070009,-10.8459518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. A10</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 1
+Endereço: Av. A10, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1448706,-10.8869674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. A8</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 1
+Endereço: Av. A8, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1448706,-10.8869674,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Av. A5</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 2
+Endereço: Av. A5, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1448706,-10.8869674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Coletora A</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 2
+Endereço: Av. Coletora A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral A</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 2
+Endereço: Av. Perimetral A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.070009,-10.8459518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. A11</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 2
+Endereço: Av. A11, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1001735,-10.991501,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 23</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 2
+Endereço: Rua 23, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1347724,-10.912541,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua 24</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 3
+Endereço: Rua 24, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0794852,-10.8603318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 25</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 3
+Endereço: Rua 25, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.082361,-10.8607264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 26</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 3
+Endereço: Rua 26, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1387229,-10.9137886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. A5</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 3
+Endereço: Av. A5, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1448706,-10.8869674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Coletora A + Estrutural</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 3
+Endereço: Av. Coletora A + Estrutural, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral A</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 3
+Endereço: Av. Perimetral A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.070009,-10.8459518,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Av. Coletora A + Estrutural</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 4
+Endereço: Av. Coletora A + Estrutural, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral A</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 4
+Endereço: Av. Perimetral A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.070009,-10.8459518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. A12</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 4
+Endereço: Av. A12, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1448706,-10.8869674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 26</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 4
+Endereço: Rua 26, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1387229,-10.9137886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 27</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 4
+Endereço: Rua 27, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0975765,-10.8665826,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Rua 101</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 101, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0647209,-10.8436454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 102</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 102, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.1222775,-10.888514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 103</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 103, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0638722,-10.8430108,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 104</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 104, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0634924,-10.8432088,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 105</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 105, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0629074,-10.8432133,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 108</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 108, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0630957,-10.8429913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 112</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua 112, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0642939,-10.8425991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A29</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 5
+Endereço: Rua A29, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.0947237,-10.8507166,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 6</name>
+      <Placemark>
+        <name>Av. Coletora C</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 6
+Endereço: Av. Coletora C, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_6</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral E</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 6
+Endereço: Av. Perimetral E, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_6</styleUrl>
+        <Point>
+          <coordinates>-37.0689033,-10.8522036,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 7</name>
+      <Placemark>
+        <name>Rua Prof. Fatima de Barros</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Rua Prof. Fatima de Barros, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.126223,-10.894237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Rua E, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.0511593,-10.8377173,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa E</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Travessa E, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.1265527,-10.8970991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 106</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Rua 106, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.0628337,-10.8437265,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 107</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Rua 107, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.0624567,-10.8439355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 109</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Rua 109, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.0635143,-10.84258,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 110</name>
+        <description>
+UBS: Vereador Gervasio Reis
+Microárea: 7
+Endereço: Rua 110, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_7</styleUrl>
+        <Point>
+          <coordinates>-37.0633807,-10.8421757,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

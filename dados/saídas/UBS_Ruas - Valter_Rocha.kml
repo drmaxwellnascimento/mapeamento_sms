@@ -1,0 +1,902 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Valter Rocha</name>
+    <Style id="style_ma1">
+      <IconStyle>
+        <color>ff28a349</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff28a349</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ff22c34d</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff22c34d</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ff19e54f</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff19e54f</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>ff24f35c</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff24f35c</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua Aramuru</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Aramuru, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.054448,-10.8494447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Caete</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Caete, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0521895,-10.8494823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Caxico</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Caxico, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.052148,-10.8485397,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Karapato</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Karapato, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0549626,-10.8534024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pataco</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Pataco, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0561353,-10.8492391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Tomoio</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Av. Tomoio, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0541413,-10.8491635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Tapuia</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Tapuia, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0545692,-10.8484499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Tupinamba</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Tupinamba, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0534798,-10.8485445,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Xoco Guara</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Xoco Guara, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0529754,-10.8500062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Xingú</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Xingú, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0523653,-10.8489106,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Espirito Santo</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Espirito Santo, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.050555,-10.850387,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Florionopolis</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Av. Florionopolis, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0513121,-10.8505205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Mato Grosso</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Mato Grosso, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0525979,-10.8502049,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Mato Grosso</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Travessa Mato Grosso, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0523887,-10.8504033,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Catarina</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Rua Santa Catarina, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0535543,-10.8518979,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Curitiba</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Av. Curitiba, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0513742,-10.8502863,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Curitiba</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Travessa Curitiba, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0518566,-10.8500167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eng. Galvão</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 1
+Endereço: Av. Eng. Galvão, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0521436,-10.8505377,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua Parana</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Parana, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0514451,-10.8519297,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Porto Alegre</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Porto Alegre, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0517073,-10.8524389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Rio de Janeiro</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Rio de Janeiro, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0504742,-10.851544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Sao Paulo</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Sao Paulo, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0503306,-10.850985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Engenheiro Luciano Santana Gaalvão</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Av. Engenheiro Luciano Santana Gaalvão, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0521436,-10.8505377,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 05</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua 05, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0549626,-10.8534024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 19</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Travessa 19, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0527967,-10.855582,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 17</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Travessa 17, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0528207,-10.8555666,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Espirito Santo</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Espirito Santo, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.050555,-10.850387,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Goias</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Goias, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0497129,-10.8502756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Mato Grosso</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua Mato Grosso, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0525979,-10.8502049,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 16</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Travessa 16, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0528848,-10.8553764,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Maria Freire</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Travessa Maria Freire, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0706023,-10.8307986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 20</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Travessa 20, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0529094,-10.85536,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A (Jardim Esperança)</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua A (Jardim Esperança), Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0516787,-10.844759,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B (Jardim Esperança)</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 2
+Endereço: Rua B (Jardim Esperança), Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0512203,-10.8447381,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua 09</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua 09, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0521895,-10.8494823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 03</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua 03, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0549626,-10.8534024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 02</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua 02, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1001707,-10.9004124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 01</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua 01, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0750005,-10.8532956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Distrito Federal</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua Distrito Federal, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0504601,-10.848655,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Minas Gerais</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua Minas Gerais, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0499503,-10.8499216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Goias</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua Goias, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0497129,-10.8502756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Curitiba</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Av. Curitiba, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0513742,-10.8502863,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Florionopolis</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Av. Florionopolis, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0513121,-10.8505205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Mato Grosso</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua Mato Grosso, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0525979,-10.8502049,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Mato Grosso do Sul</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 3
+Endereço: Rua Mato Grosso do Sul, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0506611,-10.8505602,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua Tapuia</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua Tapuia, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0545692,-10.8484499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Kariri-Xoco</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua Kariri-Xoco, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0545204,-10.8503224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Novo Acesso</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua Novo Acesso, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0544399,-10.8483834,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Tupiniquins</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Av. Tupiniquins, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.05366,-10.8503293,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Tamoio</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Av. Tamoio, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0541413,-10.8491635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Potiguara</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua Potiguara, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0551432,-10.849552,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 07</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 07, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0916369,-10.8586131,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 08</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 08, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.1278298,-10.8935105,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 09</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 09, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0521895,-10.8494823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 10</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 10, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0527733,-10.8496333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 11, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0529754,-10.8500062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 12</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 12, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.069999,-10.8465636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 13</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 13, Sao Braz, Nossa Senhora do Socorro - SE
+Método: fallback
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.05153,-10.84992,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 14</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 14, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0769102,-10.8706436,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 15</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua 15, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0678851,-10.8444623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Bras</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua Bras, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0549626,-10.8534024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Diego Emerson</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua Diego Emerson, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0503647,-10.8455629,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eng. Luciano Galvão</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Av. Eng. Luciano Galvão, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0521436,-10.8505377,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D3</name>
+        <description>
+UBS: Valter Rocha
+Microárea: 4
+Endereço: Rua D3, Sao Braz, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.052885,-10.8329192,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

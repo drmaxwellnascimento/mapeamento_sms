@@ -1,0 +1,1045 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Antônio Carlos Leite Franco</name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff62852c</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff62852c</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ff72a328</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff72a328</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ff82c322</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff82c322</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ff93e519</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff93e519</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Região Central do Pai André</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Região Central do Pai André, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.15400100000001,-10.910473,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Carlos Menezes</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Carlos Menezes, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1545432,-10.9113237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Prof. Antônio Aires</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Prof. Antônio Aires, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Tobias Barreto</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Tobias Barreto, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1543341,-10.9128971,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Marcílio Dias</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Marcílio Dias, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1549084,-10.9124009,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Ana Nery</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Ana Nery, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1555154,-10.9121409,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Presidente Costa e Silva</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Presidente Costa e Silva, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1560043,-10.911252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Presidente Castelo Branco</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Presidente Castelo Branco, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1554617,-10.9131336,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Presidente Ernesto Geisel</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Presidente Ernesto Geisel, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1556174,-10.9141621,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Carlos Gomes</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Carlos Gomes, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1567984,-10.9136007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Silvio Romero</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Silvio Romero, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1551968,-10.9160385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Hermes Fontes</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Hermes Fontes, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1531768,-10.9134824,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Pedro</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua São Pedro, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1164365,-10.9458658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Guarani</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Guarani, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Fluminense</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua Fluminense, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua das Casas da Caixa Econômica</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 1
+Endereço: Rua das Casas da Caixa Econômica, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua Manuel Antonio Santos</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Manuel Antonio Santos, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1446516,-10.9077433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Terezinha</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Santa Terezinha, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1505729,-10.9103582,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Jorge</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua São Jorge, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1504562,-10.9078466,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Catarina</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Santa Catarina, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1523036,-10.9082323,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa São Jorge</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Travessa São Jorge, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1510609,-10.9081913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Santa Catarina</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Travessa Santa Catarina, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.151795,-10.9082021,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José Liberato de Souza</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua José Liberato de Souza, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1518268,-10.9104752,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Hermes Fontes</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Hermes Fontes, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1531768,-10.9134824,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Esperança</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Esperança, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1441068,-10.8964535,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Nossa Senhora do Socorro</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Nossa Senhora do Socorro, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1514301,-10.9122618,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Felipe Camarão</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Felipe Camarão, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1520372,-10.9122136,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Gonçalves Dias</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Gonçalves Dias, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0634184,-10.9540735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Bota Fogo / Flamengo</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 2
+Endereço: Rua Bota Fogo / Flamengo, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.151845,-10.9128685,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Travessa A</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa A, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1368712,-10.9027908,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa B</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa B, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1440425,-10.8915978,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa C</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa C, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.143835,-10.8931293,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa D</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa D, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1442941,-10.8937214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa E</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa E, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1265527,-10.8970991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa F</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa F, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1261853,-10.8977026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa G</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa G, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.105092,-10.8956263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Presidente Medici 1</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Presidente Medici 1, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1568527,-10.9124731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Presidente Medici 2</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Presidente Medici 2, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1568527,-10.9124731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua E, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1472772,-10.8950402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Senhor do Bonfim</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Senhor do Bonfim, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0805632,-10.8981931,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua João Rodrigues</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua João Rodrigues, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1199982,-10.8987683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Jorge</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua São Jorge, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1504562,-10.9078466,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Rodrigues</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Rodrigues, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1187728,-10.896142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua C, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1361297,-10.8942869,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Campo</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua do Campo, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.155646,-10.8989331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua João Pereira de Menezes</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua João Pereira de Menezes, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1199982,-10.8987683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Gilton Gama</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Gilton Gama, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Senhor do Bonfim</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa Senhor do Bonfim, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1081588,-10.9225798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Marco José da Silva Porto</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Marco José da Silva Porto, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Contorno Sul</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua Contorno Sul, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0936714,-10.9036935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua M</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua M, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1418452,-10.9025127,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Rua D, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1364426,-10.8948574,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Propriá</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 3
+Endereço: Travessa Propriá, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0879907,-10.8652471,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua Senhor do Bonfim</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua Senhor do Bonfim, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0805632,-10.8981931,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua João Rodrigues</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua João Rodrigues, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1199982,-10.8987683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa da Paz</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa da Paz, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1474865,-10.8857157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa das Rosas</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa das Rosas, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0831709,-10.8841125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa S</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa S, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1168674,-10.9416269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Confiança</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa Confiança, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.054107,-10.8966169,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Presidente Médice</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa Presidente Médice, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1568527,-10.9124731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Propriá</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa Propriá, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0879907,-10.8652471,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Sergipe</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa Sergipe, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0528546,-10.8555061,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Itabaiana</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Travessa Itabaiana, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0870131,-10.8561529,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua C, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1361297,-10.8942869,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua E, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1472772,-10.8950402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua A, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1355343,-10.8950038,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua B, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1358993,-10.8949316,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua D, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1364426,-10.8948574,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Campo</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua do Campo, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.155646,-10.8989331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Marcos</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua São Marcos, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0776146,-10.8384798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Camilo Lima</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua Camilo Lima, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Eliéser Santos</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua Eliéser Santos, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Eliéser Melo Bonfim</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua Eliéser Melo Bonfim, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1348557,-10.9085289,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Renato Sales de Oliveira</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Rua Renato Sales de Oliveira, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loteamento Parque São Francisco</name>
+        <description>
+UBS: Antônio Carlos Leite Franco
+Microárea: 4
+Endereço: Loteamento Parque São Francisco, Santo Inácio, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1579735,-10.9146915,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

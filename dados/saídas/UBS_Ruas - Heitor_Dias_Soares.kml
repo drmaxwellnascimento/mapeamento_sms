@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Heitor Dias Soares</name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff85662c</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff85662c</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ffa37828</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffa37828</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ffc38a22</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffc38a22</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ffe59e19</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffe59e19</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua 133</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 133, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0614585,-10.8316051,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 134</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 134, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0614034,-10.830973,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 135</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 135, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0616204,-10.83061,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 136</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 136, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0620412,-10.8304509,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 137</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 137, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0623813,-10.8301866,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 138</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 138, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0626248,-10.8298436,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 139</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Rua 139, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0628407,-10.8294457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral G</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Av. Perimetral G, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0652125,-10.829142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Maria Altair de Lima</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 1
+Endereço: Travessa Maria Altair de Lima, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0706023,-10.8307986,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Av. Perimetral F</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 2
+Endereço: Av. Perimetral F, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0592141,-10.8317597,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 33</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 2
+Endereço: Rua A 33, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0562038,-10.8356053,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua 188</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 188, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0647891,-10.8296125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 189</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 189, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0648672,-10.8292324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 190</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 190, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.06537,-10.828817,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 191</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 191, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0650583,-10.828396,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 192</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 192, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0646508,-10.8279704,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 193</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 193, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0655203,-10.8275641,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 155</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 155, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0660006,-10.8364366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 156</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 156, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0661545,-10.8360165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 157</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 157, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0661554,-10.8358143,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 158</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 158, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0654086,-10.835596,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 159</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 159, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0659538,-10.8351879,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida A 38</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Avenida A 38, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0646402,-10.8347538,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 34</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua A 34, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0559006,-10.8356457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 33</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua A 33, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0562038,-10.8356053,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Caik</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Travessa Caik, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0878703,-10.8523859,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Perimetral F</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Av. Perimetral F, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0592141,-10.8317597,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 113</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Rua 113, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.061269,-10.8367612,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Altair</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 3
+Endereço: Travessa Altair, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua 149</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 149, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0640554,-10.8363807,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 150</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 150, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0642679,-10.8367821,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 151</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 151, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0645815,-10.8372109,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 152</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 152, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0647988,-10.8376153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 153</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 153, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0648957,-10.8380476,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 154</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 154, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0640598,-10.8391528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 41</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua A 41, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0561862,-10.8355208,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 39</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua A 39, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0562003,-10.8355354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 165</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 165, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0640863,-10.8339279,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 166</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 166, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0651445,-10.8335184,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 167</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 167, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0652125,-10.8330889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 168</name>
+        <description>
+UBS: Heitor Dias Soares
+Microárea: 4
+Endereço: Rua 168, Albano Franco, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0657446,-10.8326892,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

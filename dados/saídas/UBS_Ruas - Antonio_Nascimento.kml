@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Antonio Nascimento </name>
+    <Style id="style_ma_5">
+      <IconStyle>
+        <color>ff2c2e85</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2c2e85</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Estiva 1 Via Ferrea</name>
+        <description>
+UBS: Antonio Nascimento 
+Microárea: 5
+Endereço: Estiva 1 Via Ferrea, Estiva, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.145936,-10.846239,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estiva 1 Rua Do Campo</name>
+        <description>
+UBS: Antonio Nascimento 
+Microárea: 5
+Endereço: Estiva 1 Rua Do Campo, Estiva, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.181846,-10.8919585,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estia 1 Outro Lado</name>
+        <description>
+UBS: Antonio Nascimento 
+Microárea: 5
+Endereço: Estia 1 Outro Lado, Estiva, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.1040002,-10.8413362,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estiva 2 Madrideus</name>
+        <description>
+UBS: Antonio Nascimento 
+Microárea: 5
+Endereço: Estiva 2 Madrideus, Estiva, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_5</styleUrl>
+        <Point>
+          <coordinates>-37.1486559,-10.842768,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

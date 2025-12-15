@@ -1,0 +1,785 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Mugival Messias Santos</name>
+    <Style id="style_ma_1">
+      <IconStyle>
+        <color>ff7e2c85</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff7e2c85</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_2">
+      <IconStyle>
+        <color>ff9928a3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff9928a3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_3">
+      <IconStyle>
+        <color>ffb522c3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffb522c3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_4">
+      <IconStyle>
+        <color>ffd419e5</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffd419e5</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua 09</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua 09, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0521895,-10.8494823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 10</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua 10, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.079663,-10.8548099,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A05</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua A05, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0629074,-10.8432133,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A6</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua A6, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0995635,-10.9920635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 2</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Travessa 2, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1507636,-10.8920309,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Perimetral A</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Avenida Perimetral A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.070009,-10.8459518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José Carlos Magno</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua José Carlos Magno, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0643911,-10.8527666,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua França</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua França, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.1170524,-10.87761,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Coletora C</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Avenida Coletora C, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0661651,-10.8378656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 28</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua A 28, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0803202,-10.8337696,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 88</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua 88, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0624967,-10.8479263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua 11, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0845003,-10.8560861,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 14</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua 14, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0684573,-10.8450307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 18</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua 18, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.080111,-10.8581393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A8 (nº 01 a 31)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Rua A8 (nº 01 a 31), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.101197,-10.977081,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Perimetral A (nº 16 ao 32)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 1
+Endereço: Avenida Perimetral A (nº 16 ao 32), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_1</styleUrl>
+        <Point>
+          <coordinates>-37.0709395,-10.8470296,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua 28</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 28, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1369781,-10.9139939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 28 A</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 28 A, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0682915,-10.8482806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 28 B</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 28 B, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0686342,-10.8485429,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 29</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 29, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1279014,-10.9175649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 30</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 30, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0845491,-10.8612092,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida 09</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Avenida 09, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0644746,-10.8478914,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 89</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 89, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0621648,-10.8476651,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 90</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 90, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0618273,-10.8474199,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 91</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 91, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0614918,-10.8471455,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 92</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 92, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0611604,-10.8468889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A7</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua A7, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0990579,-10.9906553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 12</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 12, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.069999,-10.8465636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 13</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 13, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.1522159,-10.8909913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 19</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Rua 19, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0689118,-10.8469827,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida A8 (nº 33 a 57)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Avenida A8 (nº 33 a 57), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.0987659,-10.9911309,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Perimetral A (nº 36 a 58)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 2
+Endereço: Avenida Perimetral A (nº 36 a 58), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_2</styleUrl>
+        <Point>
+          <coordinates>-37.07006130000001,-10.8462383,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Avenida A28</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Avenida A28, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1472998,-10.8876952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Perimetral B</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Avenida Perimetral B, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1574685,-10.8892786,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Perimetral C</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Rua Perimetral C, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.061017,-10.8479107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 14 (nº 01 a 42)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Rua 14 (nº 01 a 42), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0690318,-10.8450192,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 20 (até nº 47)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Rua 20 (até nº 47), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0798648,-10.8585437,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 21</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Rua 21, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1354616,-10.9143605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 22</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Rua 22, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0797681,-10.858994,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A 8 (nº 59 ao 79)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Rua A 8 (nº 59 ao 79), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.1230861,-10.8963074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Perimetral A (nº 58 ao 81)</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 3
+Endereço: Avenida Perimetral A (nº 58 ao 81), Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_3</styleUrl>
+        <Point>
+          <coordinates>-37.0692121,-10.8453294,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua 93</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 93, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0624169,-10.8451029,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 94</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 94, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0628807,-10.8451584,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 95</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 95, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0632385,-10.8454058,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 96</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 96, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0635844,-10.8456189,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 97</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 97, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0639485,-10.8458276,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 98</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 98, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.1268867,-10.8934572,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 99</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 99, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0642284,-10.8453526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 100</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 100, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0646205,-10.8450805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A29</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua A29, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0947237,-10.8507166,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 46/41</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 46/41, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.134446,-10.9183578,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 47/41</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 47/41, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.134338,-10.9189823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 42</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Rua 42, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0930009,-10.8690463,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa 46</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Travessa 46, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0529094,-10.85536,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida A 13</name>
+        <description>
+UBS: Mugival Messias Santos
+Microárea: 4
+Endereço: Avenida A 13, Marcos Freire, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_4</styleUrl>
+        <Point>
+          <coordinates>-37.0855862,-10.8532055,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

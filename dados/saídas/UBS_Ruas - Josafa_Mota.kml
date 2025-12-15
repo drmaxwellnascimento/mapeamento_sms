@@ -1,0 +1,801 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Josafá Mota</name>
+    <Style id="style_ma1">
+      <IconStyle>
+        <color>ff2843a3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2843a3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ff2245c3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2245c3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ff1945e5</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff1945e5</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>ff2451f3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2451f3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma5">
+      <IconStyle>
+        <color>ff657ccc</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff657ccc</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Tv. Maruim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Tv. Maruim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maruim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Rua Maruim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Simao Dias</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Av. Simao Dias, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Dos Trabalhadores</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Av. Dos Trabalhadores, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pinhão</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Rua Pinhão, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pacatuba</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Rua Pacatuba, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Rosa De Lima</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Rua Santa Rosa De Lima, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0903945,-10.8649453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santana Do São Francisco</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Rua Santana Do São Francisco, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0906141,-10.8660721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Muribeca</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Rua Muribeca, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.082361,-10.8607264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Muribeca</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 1
+Endereço: Tv. Muribeca, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.082361,-10.8607264,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Tv. Boquim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Tv. Boquim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0798648,-10.8585437,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maruim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Maruim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Simao Dias</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Av. Simao Dias, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Malhador</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Malhador, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0835622,-10.859114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Trabalhadores</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Av. Trabalhadores, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Poço Verde</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Poço Verde, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pirambu</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Pirambu, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Rio Do Sal</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Rio Do Sal, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Luzia Do Intanhi</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Santa Luzia Do Intanhi, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.089027,-10.8661473,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Telha</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Rua Telha, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Telha</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 2
+Endereço: Tv. Telha, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua Malhador</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Malhador, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0835622,-10.859114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Malhada Dos Bois</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Malhada Dos Bois, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0839685,-10.8578031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Malhada</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Tv. Malhada, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1472998,-10.8876952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Boquim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Tv. Boquim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0798648,-10.8585437,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Trabalhadores</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Av. Trabalhadores, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Poço Redondo</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Poço Redondo, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Rosa De Lima</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Santa Rosa De Lima, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0903945,-10.8649453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Ribeiropolis</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Ribeiropolis, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0896348,-10.8651054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Neopolis</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Neopolis, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maruim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Maruim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Monte Alegre</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Monte Alegre, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Muribeca</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Muribeca, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.082361,-10.8607264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Aparecida</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 3
+Endereço: Rua Aparecida, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua Malhada Dos Bois</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Malhada Dos Bois, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0839685,-10.8578031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Trabalhadores</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Av. Trabalhadores, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Poço Verde</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Poço Verde, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Propriá</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Propriá, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0879907,-10.8652471,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Luzia Do Intanhi</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Santa Luzia Do Intanhi, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.089027,-10.8661473,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Riachuelo</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Riachuelo, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0883384,-10.8655413,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pedrinhas</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Pedrinhas, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pedra Mole</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Pedra Mole, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Dores</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Dores, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Aleixo</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 4
+Endereço: Rua Aleixo, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0853231,-10.8551289,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 5</name>
+      <Placemark>
+        <name>Rua Lagarto</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Lagarto, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Macambira</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Macambira, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0847632,-10.8575283,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Lagarto</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Tv. Lagarto, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Macambira</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Tv. Macambira, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0847632,-10.8575283,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Trabalhadores</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Av. Trabalhadores, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Porto Da Folha</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Porto Da Folha, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Ribeiropolis</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Ribeiropolis, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0896348,-10.8651054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Riachão Do Dantas</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Riachão Do Dantas, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0894153,-10.8639945,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Aparecida</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Aparecida, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maruim</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Maruim, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Gloria</name>
+        <description>
+UBS: Josafá Mota
+Microárea: 5
+Endereço: Rua Gloria, Multirão, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma5</styleUrl>
+        <Point>
+          <coordinates>-37.0855194,-10.8621662,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

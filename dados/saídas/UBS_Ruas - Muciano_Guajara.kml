@@ -1,0 +1,1130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Muciano Guajara</name>
+    <Style id="style_ma_32">
+      <IconStyle>
+        <color>ff2c4d85</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2c4d85</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma_9">
+      <IconStyle>
+        <color>ff2855a3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2855a3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 32</name>
+      <Placemark>
+        <name>Rua 2 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 2 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1566223,-10.8936322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 3 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 3 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1583871,-10.8928082,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 12 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 12 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1566218,-10.8879406,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 11 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.155646,-10.8989331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 13 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 13 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1551488,-10.8916973,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 10 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 10 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1574216,-10.8889933,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Quissamã</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Travessa Quissamã, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1782132,-10.8894428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Nossa Senhora de Fátima</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua Nossa Senhora de Fátima, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1572447,-10.8947878,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 1 de Fevereiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 1 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1609309,-10.8949473,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua das Orquídeas</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua das Orquídeas, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1529254,-10.8929146,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Chesf 01</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Avenida Chesf 01, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.153327,-10.897612,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A1</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua A1, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1485639,-10.8936226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua BC</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua BC, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua D, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1601854,-10.8901066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua E, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1586914,-10.8993287,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua M</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua M, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1426167,-10.8894722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua P</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua P, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1460139,-10.8939327,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila Ney</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Vila Ney, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1557627,-10.886304,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Quissamã</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Avenida Quissamã, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1782132,-10.8894428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Perimetral</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Avenida Perimetral, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1592751,-10.8958051,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Chesf</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Avenida Chesf, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1579595,-10.8969198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua do Tanque</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua do Tanque, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua da Fazenda</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua da Fazenda, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa C</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Travessa C, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.143835,-10.8931293,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa D</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Travessa D, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1442941,-10.8937214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa E</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Travessa E, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1265527,-10.8970991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua A</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua A, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1607304,-10.8987937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua B, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1436603,-10.8999085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C (São Benedito)</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua C (São Benedito), Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1589899,-10.8876823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua D (São Benedito)</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua D (São Benedito), Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1601854,-10.8901066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E (São Benedito)</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua E (São Benedito), Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1586914,-10.8993287,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida 2 de Maio</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Avenida 2 de Maio, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1546198,-10.8966897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Dois de Maio</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua Dois de Maio, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1612885,-10.8928968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 4 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 4 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1519493,-10.893631,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 5 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 5 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1526614,-10.8937602,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 6 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 6 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1537357,-10.8944381,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 7 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 7 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1546283,-10.8946267,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 9 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 9 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1539751,-10.8942888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 10 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 10 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1520439,-10.8955163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 11 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1520633,-10.8961647,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 12 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 12 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.069999,-10.8465636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 13 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 13 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1570744,-10.9003407,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 14 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Rua 14 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.0684573,-10.8450307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praça 16 de Janeiro</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Praça 16 de Janeiro, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.0945635,-10.8411434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Rosa de Maio</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 32
+Endereço: Avenida Rosa de Maio, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_32</styleUrl>
+        <Point>
+          <coordinates>-37.1524363,-10.8912445,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 9</name>
+      <Placemark>
+        <name>Rua 9</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua 9, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1542648,-10.901548,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 11</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua 11, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.155646,-10.8989331,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 10</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua 10, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.079663,-10.8548099,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 8</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua 8, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1575922,-10.8998338,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua 4</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua 4, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1600189,-10.893061,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Existente</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Existente, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.0927638,-10.9516479,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Principal</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Avenida Principal, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1568506,-10.8987421,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Padre Cícero</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Padre Cícero, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1568661,-10.898298,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Padre Cícero</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Travessa Padre Cícero, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.156876,-10.8979698,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Luiz</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua São Luiz, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1564517,-10.8983495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua B, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1436603,-10.8999085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Treze</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Treze, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1570744,-10.9003407,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Otto</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Otto, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua E</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua E, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1586914,-10.8993287,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Profeta Eliseu</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Profeta Eliseu, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1594478,-10.9000521,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Jorge Amado</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Jorge Amado, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1441411,-10.9026273,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua J. Emílio de Carvalho</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua J. Emílio de Carvalho, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1546577,-10.8995163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Joze Aloisio da Silva</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Joze Aloisio da Silva, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Elias Almeida</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Elias Almeida, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.149976,-10.9047576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Antonio Torres</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Antonio Torres, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.0669665,-10.9186794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Jucelino Emilio</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Travessa Jucelino Emilio, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1546577,-10.8995163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Humberto Silva</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Humberto Silva, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.149726,-10.9021234,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Ezequiel Cardoso</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Ezequiel Cardoso, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Projetada</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Projetada, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1425792,-10.8932728,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Agepino</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Travessa Agepino, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1502458,-10.9042093,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Almeida Fraga</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Almeida Fraga, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.149976,-10.9047576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua F</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua F, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1605749,-10.8868821,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua H</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua H, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1542648,-10.901548,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua G</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua G, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1608445,-10.8970742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Santa Barbara</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Santa Barbara, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.14478,-10.898855,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Santa Bárbara</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Travessa Santa Bárbara, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.14478,-10.898855,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa I</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Travessa I, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.0929606,-10.8557523,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa E</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Travessa E, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1265527,-10.8970991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Colonial</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Colonial, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1556814,-10.8989307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua K</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua K, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1583646,-10.8887496,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua C, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1589899,-10.8876823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Odálio Golveia</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Odálio Golveia, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1495361,-10.8984778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Balbino José</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Balbino José, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.150596,-10.897408,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Bela Vista</name>
+        <description>
+UBS: Muciano Guajara
+Microárea: 9
+Endereço: Rua Bela Vista, Guajará, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma_9</styleUrl>
+        <Point>
+          <coordinates>-37.1497222,-10.8982054,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

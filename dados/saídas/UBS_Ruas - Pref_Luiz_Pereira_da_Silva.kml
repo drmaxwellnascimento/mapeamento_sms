@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ruas - Luiz Pereira </name>
+    <Style id="style_ma1">
+      <IconStyle>
+        <color>ff2874a3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2874a3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma2">
+      <IconStyle>
+        <color>ff2285c3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2285c3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma3">
+      <IconStyle>
+        <color>ff1997e5</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff1997e5</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="style_ma4">
+      <IconStyle>
+        <color>ff24a4f3</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff24a4f3</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Microárea 1</name>
+      <Placemark>
+        <name>Rua Manoel Hilário</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Manoel Hilário, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0978828,-10.8486477,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Renato Rocha</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Renato Rocha, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0504485,-10.8894471,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Manoel Hilário</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Travessa Manoel Hilário, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0982046,-10.8456271,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa da Colina Renato Rocha</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Travessa da Colina Renato Rocha, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Pedro Manoel</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Pedro Manoel, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0972178,-10.8486961,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa São José</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Travessa São José, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0501994,-10.8801228,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Quintino Bocaiuva</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Quintino Bocaiuva, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.09573,-10.8398712,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Josefa Pereira Góes</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Josefa Pereira Góes, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0945789,-10.8405575,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Idalina</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Idalina, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0949139,-10.8395868,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Idalina</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Tv. Idalina, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0949139,-10.8395868,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alziro Ludovice</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua Alziro Ludovice, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0936336,-10.8400473,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Manoel Moraes</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Tv. Manoel Moraes, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0930188,-10.8410798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua José Bernardo</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 1
+Endereço: Rua José Bernardo, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma1</styleUrl>
+        <Point>
+          <coordinates>-37.0926164,-10.8394234,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 2</name>
+      <Placemark>
+        <name>Rua Prefeito José Franco</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Rua Prefeito José Franco, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.09078,-10.8486746,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Prefeito José Franco</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Travessa Prefeito José Franco, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.09078,-10.8486746,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Paulinha Abelha</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Rua Paulinha Abelha, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0957327,-10.8514753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Alberto Garcia Leite</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Rua Alberto Garcia Leite, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0917038,-10.8375729,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Cabo Gildo</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Rua Cabo Gildo, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0946111,-10.8410501,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Cabo Gildo</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Tv. Cabo Gildo, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0946111,-10.8410501,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. João Martins</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Tv. João Martins, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0931084,-10.8382096,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Carlos Alberto Garcia Leite</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Rua Carlos Alberto Garcia Leite, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0917038,-10.8375729,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Carlos Alberto Garcia Leite</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 2
+Endereço: Tv. Carlos Alberto Garcia Leite, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma2</styleUrl>
+        <Point>
+          <coordinates>-37.0917038,-10.8375729,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 3</name>
+      <Placemark>
+        <name>Rua Francisco Souza Aguiar</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua Francisco Souza Aguiar, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0966726,-10.8467923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa Francisco Souza Aguiar</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Travessa Francisco Souza Aguiar, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0966726,-10.8467923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Carolina Santos</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua Carolina Santos, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.1022992,-10.8451553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Recanto do Mar</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua Recanto do Mar, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0959459,-10.841424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua São Mateus</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua São Mateus, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0747442,-10.8400796,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Valdemar Andrade</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua Valdemar Andrade, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0912658,-10.8385417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Orlando Vieira</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua Orlando Vieira, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.0919083,-10.8442196,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Manoel Do Siri</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Rua Manoel Do Siri, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.091092,-10.8437458,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tv. Manoel Do Siri</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 3
+Endereço: Tv. Manoel Do Siri, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma3</styleUrl>
+        <Point>
+          <coordinates>-37.091092,-10.8437458,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Microárea 4</name>
+      <Placemark>
+        <name>Rua G</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Rua G, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0842277,-10.8546623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua B</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Rua B, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0795724,-10.8730874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua I</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Rua I, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0866952,-10.8422771,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida A</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Avenida A, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0850451,-10.8529317,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua C</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Rua C, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0549728,-10.8306141,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travessa A01</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Travessa A01, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0789547,-10.8792209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida H</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Avenida H, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0845747,-10.8542305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rua Maria Ceris dos Santos</name>
+        <description>
+UBS: Luiz Pereira 
+Microárea: 4
+Endereço: Rua Maria Ceris dos Santos, Taiçoca de Fora, Nossa Senhora do Socorro - SE
+Método: google_api
+</description>
+        <styleUrl>#style_ma4</styleUrl>
+        <Point>
+          <coordinates>-37.0948104,-10.8484458,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
