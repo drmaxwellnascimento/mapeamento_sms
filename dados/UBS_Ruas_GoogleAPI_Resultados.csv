@@ -1,0 +1,66 @@
+﻿endereco_original,latitude,longitude,location_type,formatted_address,metodo
+"Rua 12 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE",-10.8879406,-37.1566218,GEOMETRIC_CENTER,"R. 12 de Fevereiro - Santa Inês, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 1 de Fevereiro, Guajará, Nossa Senhora do Socorro - SE",-10.8949473,-37.1609309,GEOMETRIC_CENTER,"R. 1 - Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua do Tanque, Guajará, Nossa Senhora do Socorro - SE",-10.8989307,-37.1556814,APPROXIMATE,"Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua da Fazenda, Guajará, Nossa Senhora do Socorro - SE",-10.8989307,-37.1556814,APPROXIMATE,"Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua C (São Benedito), Guajará, Nossa Senhora do Socorro - SE",-10.8876823,-37.1589899,GEOMETRIC_CENTER,"R. C - Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua D (São Benedito), Guajará, Nossa Senhora do Socorro - SE",-10.8901066,-37.1601854,GEOMETRIC_CENTER,"R. D - Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua E (São Benedito), Guajará, Nossa Senhora do Socorro - SE",-10.8993287,-37.1586914,GEOMETRIC_CENTER,"R. e - Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 12 de Janeiro, Guajará, Nossa Senhora do Socorro - SE",-10.8465636,-37.069999,GEOMETRIC_CENTER,"R. 12, Nossa Sra. do Socorro - SE, 49156-074, Brasil",google_api
+"Rua 14 de Janeiro, Guajará, Nossa Senhora do Socorro - SE",-10.8450307,-37.0684573,GEOMETRIC_CENTER,"R. 14 - Marcos Freire I, Nossa Sra. do Socorro - SE, 49156-080, Brasil",google_api
+"Praça 16 de Janeiro, Guajará, Nossa Senhora do Socorro - SE",-10.8411434,-37.0945635,ROOFTOP,"R. Orlando Vieira Santos, 174 - Taiçoca de Fora, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua Existente, Guajará, Nossa Senhora do Socorro - SE",-10.9516479,-37.0927638,GEOMETRIC_CENTER,"R. Existente - Jabotiana, Aracaju - SE, 49096, Brasil",google_api
+"Rua Otto, Guajará, Nossa Senhora do Socorro - SE",-10.8989307,-37.1556814,APPROXIMATE,"Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Profeta Eliseu, Guajará, Nossa Senhora do Socorro - SE",-10.9000521,-37.1594478,GEOMETRIC_CENTER,"R. Profeta Eliseu - Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Jorge Amado, Guajará, Nossa Senhora do Socorro - SE",-10.9026273,-37.1441411,GEOMETRIC_CENTER,"R. Jorge Cardoso Lima - Parque dos Faróis, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Joze Aloisio da Silva, Guajará, Nossa Senhora do Socorro - SE",-10.8989307,-37.1556814,APPROXIMATE,"Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Antonio Torres, Guajará, Nossa Senhora do Socorro - SE",-10.9186794,-37.0669665,GEOMETRIC_CENTER,"R. Dep. Antônio Tôrres, Aracaju - SE, Brasil",google_api
+"Travessa Jucelino Emilio, Guajará, Nossa Senhora do Socorro - SE",-10.8995163,-37.1546577,GEOMETRIC_CENTER,"R. Jocelino Emílio de Carvalho - Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Ezequiel Cardoso, Guajará, Nossa Senhora do Socorro - SE",-10.8989307,-37.1556814,APPROXIMATE,"Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Projetada, Guajará, Nossa Senhora do Socorro - SE",-10.8932728,-37.1425792,GEOMETRIC_CENTER,"R. projetada - Jardim, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Travessa Agepino, Guajará, Nossa Senhora do Socorro - SE",-10.9042093,-37.1502458,GEOMETRIC_CENTER,"Tv. Agripino Alves de Oliveira - Palestina de Fora, Nossa Sra. do Socorro - SE, 49163-095, Brasil",google_api
+"Rua Almeida Fraga, Guajará, Nossa Senhora do Socorro - SE",-10.9044721,-37.1503541,GEOMETRIC_CENTER,"R. Elías Almeida - Palestina de Fora, Nossa Sra. do Socorro - SE, 49163-105, Brasil",google_api
+"Rua Colonial, Guajará, Nossa Senhora do Socorro - SE",-10.8989307,-37.1556814,APPROXIMATE,"Guajará, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Odálio Golveia, Guajará, Nossa Senhora do Socorro - SE",-10.8984778,-37.1495361,GEOMETRIC_CENTER,"R. Eudálio Gouveia - Jardim, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Bela Vista, Guajará, Nossa Senhora do Socorro - SE",-10.8982054,-37.1497222,GEOMETRIC_CENTER,"R. Bela Vista - Jardim, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Aramuru, Sao Braz, Nossa Senhora do Socorro - SE",-10.8494447,-37.054448,GEOMETRIC_CENTER,"R. Aramuru - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Caete, Sao Braz, Nossa Senhora do Socorro - SE",-10.8494823,-37.0521895,GEOMETRIC_CENTER,"R. Caeté - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Caxico, Sao Braz, Nossa Senhora do Socorro - SE",-10.8485397,-37.052148,GEOMETRIC_CENTER,"R. Caxicó - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Karapato, Sao Braz, Nossa Senhora do Socorro - SE",-10.8534024,-37.0549626,ROOFTOP,"Av. Manoel Pedro dos Santos Neto, S/N - São Brás, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua Pataco, Sao Braz, Nossa Senhora do Socorro - SE",-10.8534024,-37.0549626,ROOFTOP,"Av. Manoel Pedro dos Santos Neto, S/N - São Brás, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua Xoco Guara, Sao Braz, Nossa Senhora do Socorro - SE",-10.8500062,-37.0529754,GEOMETRIC_CENTER,"R. Xocó-Guará - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Espirito Santo, Sao Braz, Nossa Senhora do Socorro - SE",-10.850387,-37.050555,GEOMETRIC_CENTER,"R. Espírito Santo - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Santa Catarina, Sao Braz, Nossa Senhora do Socorro - SE",-10.8518979,-37.0535543,GEOMETRIC_CENTER,"R. Santa Catarina - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Av. Eng. Galvão, Sao Braz, Nossa Senhora do Socorro - SE",-10.8505377,-37.0521436,GEOMETRIC_CENTER,"Av. Eng. Luciano Santana Galvão - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Parana, Sao Braz, Nossa Senhora do Socorro - SE",-10.8519297,-37.0514451,GEOMETRIC_CENTER,"R. Paraná - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Porto Alegre, Sao Braz, Nossa Senhora do Socorro - SE",-10.8524389,-37.0517073,GEOMETRIC_CENTER,"R. Porto Alegre - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Rio de Janeiro, Sao Braz, Nossa Senhora do Socorro - SE",-10.851544,-37.0504742,GEOMETRIC_CENTER,"R. Rio de Janeiro - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Av. Engenheiro Luciano Santana Gaalvão, Sao Braz, Nossa Senhora do Socorro - SE",-10.8505377,-37.0521436,GEOMETRIC_CENTER,"Av. Eng. Luciano Santana Galvão - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 05, Sao Braz, Nossa Senhora do Socorro - SE",-10.8937909,-37.122709,ROOFTOP,"R. Cento e Quarenta e Cinco, 5 - Santa Cecília, Nossa Sra. do Socorro - SE, 49158-085, Brasil",google_api
+"Travessa 19, Sao Braz, Nossa Senhora do Socorro - SE",-10.855582,-37.0527967,RANGE_INTERPOLATED,"Tv. Sergipe, 19, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Travessa 17, Sao Braz, Nossa Senhora do Socorro - SE",-10.8555666,-37.0528207,ROOFTOP,"Tv. Sergipe, 17 - São Brás, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua Espirito Santo, Sao Braz, Nossa Senhora do Socorro - SE",-10.850387,-37.050555,GEOMETRIC_CENTER,"R. Espírito Santo - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Travessa 16, Sao Braz, Nossa Senhora do Socorro - SE",-10.8553764,-37.0528848,ROOFTOP,"Tv. Sergipe, 16 - São Brás, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Travessa Maria Freire, Sao Braz, Nossa Senhora do Socorro - SE",-10.8307986,-37.0706023,GEOMETRIC_CENTER,"Tv. Maria Minita - Taiçoca de Dentro, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Travessa 20, Sao Braz, Nossa Senhora do Socorro - SE",-10.85536,-37.0529094,RANGE_INTERPOLATED,"Tv. Sergipe, 20, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua A (Jardim Esperança), Sao Braz, Nossa Senhora do Socorro - SE",-10.844759,-37.0516787,GEOMETRIC_CENTER,"R. A Jardim Esperança - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua B (Jardim Esperança), Sao Braz, Nossa Senhora do Socorro - SE",-10.8447381,-37.0512203,GEOMETRIC_CENTER,"R. B Jardim Esperança - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 09, Sao Braz, Nossa Senhora do Socorro - SE",-10.8494823,-37.0521895,GEOMETRIC_CENTER,"R. Caeté - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 03, Sao Braz, Nossa Senhora do Socorro - SE",-10.8534024,-37.0549626,ROOFTOP,"Av. Manoel Pedro dos Santos Neto, S/N - São Brás, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua 02, Sao Braz, Nossa Senhora do Socorro - SE",-10.9004124,-37.1001707,GEOMETRIC_CENTER,"R. 02 - Olaria, Aracaju - SE, 49092-600, Brasil",google_api
+"Rua Distrito Federal, Sao Braz, Nossa Senhora do Socorro - SE",-10.848655,-37.0504601,GEOMETRIC_CENTER,"R. Distrito Federal - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Minas Gerais, Sao Braz, Nossa Senhora do Socorro - SE",-10.8499216,-37.0499503,GEOMETRIC_CENTER,"R. Minas Gerais - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua Novo Acesso, Sao Braz, Nossa Senhora do Socorro - SE",-10.8483834,-37.0544399,GEOMETRIC_CENTER,"R. Novo Acesso - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 07, Sao Braz, Nossa Senhora do Socorro - SE",-10.8586131,-37.0916369,GEOMETRIC_CENTER,"R. 7 - Fernando Collor, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 08, Sao Braz, Nossa Senhora do Socorro - SE",-10.8935105,-37.1278298,RANGE_INTERPOLATED,"R. Cento e Quarenta e Cinco, 8 - Santa Cecília, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua 09, Sao Braz, Nossa Senhora do Socorro - SE",-10.8494823,-37.0521895,GEOMETRIC_CENTER,"R. Caeté - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 10, Sao Braz, Nossa Senhora do Socorro - SE",-10.8496333,-37.0527733,GEOMETRIC_CENTER,"R. Pataxó - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 11, Sao Braz, Nossa Senhora do Socorro - SE",-10.8500062,-37.0529754,GEOMETRIC_CENTER,"R. Xocó-Guará - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua 12, Sao Braz, Nossa Senhora do Socorro - SE",-10.8465636,-37.069999,GEOMETRIC_CENTER,"R. 12, Nossa Sra. do Socorro - SE, 49156-074, Brasil",google_api
+"Rua 13, Sao Braz, Nossa Senhora do Socorro - SE",-10.8457075,-37.0689949,GEOMETRIC_CENTER,"R. 13, Nossa Sra. do Socorro - SE, 49156-076, Brasil",google_api
+"Rua 14, Sao Braz, Nossa Senhora do Socorro - SE",-10.8706436,-37.0769102,GEOMETRIC_CENTER,"R. Quatorze - Lamarão, Aracaju - SE, 49088-150, Brasil",google_api
+"Rua 15, Sao Braz, Nossa Senhora do Socorro - SE",-10.8444623,-37.0678851,GEOMETRIC_CENTER,"R. 15, Nossa Sra. do Socorro - SE, 49156-084, Brasil",google_api
+"Rua Bras, Sao Braz, Nossa Senhora do Socorro - SE",-10.8534024,-37.0549626,ROOFTOP,"Av. Manoel Pedro dos Santos Neto, S/N - São Brás, Nossa Sra. do Socorro - SE, 49160-000, Brasil",google_api
+"Rua Diego Emerson, Sao Braz, Nossa Senhora do Socorro - SE",-10.8455629,-37.0503647,GEOMETRIC_CENTER,"Rua Diego Emerson - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Av. Eng. Luciano Galvão, Sao Braz, Nossa Senhora do Socorro - SE",-10.8505377,-37.0521436,GEOMETRIC_CENTER,"Av. Eng. Luciano Santana Galvão - São Brás, Nossa Sra. do Socorro - SE, Brasil",google_api
+"Rua D3, Sao Braz, Nossa Senhora do Socorro - SE",-10.8329192,-37.052885,GEOMETRIC_CENTER,"Rua D 3 - Piabeta, Nossa Sra. do Socorro - SE, Brasil",google_api
